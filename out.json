@@ -1,0 +1,6622 @@
+{
+  "AD": {
+    "exonym": "Andorra",
+    "name": "The Principality of Andorra",
+    "capital": "Andorra la Vella",
+    "iso_3166_1_a3": "AND",
+    "tld": ".ad",
+    "flag": "🇦🇩",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "376",
+    "endonyms": null,
+    "languages": [
+      "Catalan"
+    ]
+  },
+  "AE": {
+    "exonym": "United Arab Emirates",
+    "name": "The United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "iso_3166_1_a3": "ARE",
+    "tld": ".ae",
+    "flag": "🇦🇪",
+    "currency": {
+      "name": "United Arab Emirates dirham",
+      "iso_4217": "AED",
+      "symbol": "Dh or Dhs (pl.)",
+      "fraction": "Fils",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+04:00",
+      "dst": null
+    },
+    "calling_code": "971",
+    "endonyms": [
+      "Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah",
+      "الإمارات العربيّة المتّحدة"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "AF": {
+    "exonym": "Afghanistan",
+    "name": "The Islamic Republic of Afghanistan",
+    "capital": "Kabul",
+    "iso_3166_1_a3": "AFG",
+    "tld": ".af",
+    "flag": "🇦🇫",
+    "currency": {
+      "name": "Afghani",
+      "iso_4217": "AFN",
+      "symbol": "؋‎",
+      "fraction": "Pul",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+04:30",
+      "dst": null
+    },
+    "calling_code": "93",
+    "endonyms": [
+      "Afġānistān",
+      "Islamic Republic of Afghanistan",
+      "افغانستان"
+    ],
+    "languages": [
+      "Dari",
+      "Pashto"
+    ]
+  },
+  "AG": {
+    "exonym": "Antigua and Barbuda",
+    "name": "Antigua and Barbuda",
+    "capital": "St. John's, Antigua and Barbuda",
+    "iso_3166_1_a3": "ATG",
+    "tld": ".ag",
+    "flag": "🇦🇬",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "iso_4217": "XCD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (268)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "AI": {
+    "exonym": "Anguilla",
+    "name": "Anguilla",
+    "capital": "The Valley, Anguilla",
+    "iso_3166_1_a3": "AIA",
+    "tld": ".ai",
+    "flag": "🇦🇮",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "iso_4217": "XCD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (264)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "AL": {
+    "exonym": "Albania",
+    "name": "The Republic of Albania",
+    "capital": "Tirana",
+    "iso_3166_1_a3": "ALB",
+    "tld": ".al",
+    "flag": "🇦🇱",
+    "currency": {
+      "name": "Lek",
+      "iso_4217": "ALL",
+      "symbol": "Lek",
+      "fraction": "Qintar",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "355",
+    "endonyms": [
+      "Shqipëria"
+    ],
+    "languages": [
+      "Albanian"
+    ]
+  },
+  "AM": {
+    "exonym": "Armenia",
+    "name": "The Republic of Armenia",
+    "capital": "Yerevan",
+    "iso_3166_1_a3": "ARM",
+    "tld": ".am",
+    "flag": "🇦🇲",
+    "currency": {
+      "name": "Armenian Dram",
+      "iso_4217": "AMD",
+      "symbol": "֏",
+      "fraction": "Luma",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+04:00",
+      "dst": null
+    },
+    "calling_code": "374",
+    "endonyms": [
+      "Hayastán",
+      "Հայաստան"
+    ],
+    "languages": [
+      "Armenian"
+    ]
+  },
+  "AO": {
+    "exonym": "Angola",
+    "name": "The Republic of Angola",
+    "capital": "Luanda",
+    "iso_3166_1_a3": "AGO",
+    "tld": ".ao",
+    "flag": "🇦🇴",
+    "currency": {
+      "name": "Kwanza",
+      "iso_4217": "AOA",
+      "symbol": "Kz",
+      "fraction": "Cêntimo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "244",
+    "endonyms": [
+      "Ngola"
+    ],
+    "languages": [
+      "Kongo",
+      "Portuguese"
+    ]
+  },
+  "AQ": {
+    "exonym": "Antarctica",
+    "name": "60th parallel south",
+    "capital": null,
+    "iso_3166_1_a3": "ATA",
+    "tld": ".aq",
+    "flag": "🇦🇶",
+    "currency": null,
+    "time": null,
+    "calling_code": null,
+    "endonyms": null,
+    "languages": null
+  },
+  "AR": {
+    "exonym": "Argentina",
+    "name": "The Argentine Republic",
+    "capital": "Buenos Aires",
+    "iso_3166_1_a3": "ARG",
+    "tld": ".ar",
+    "flag": "🇦🇷",
+    "currency": {
+      "name": "Argentine Peso",
+      "iso_4217": "ARS",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−03:00",
+      "dst": null
+    },
+    "calling_code": "54",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "AS": {
+    "exonym": "American Samoa",
+    "name": "The Territory of American Samoa",
+    "capital": "Pago Pago",
+    "iso_3166_1_a3": "ASM",
+    "tld": ".as",
+    "flag": "🇦🇸",
+    "currency": {
+      "name": "US Dollar",
+      "iso_4217": "USD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC−11:00",
+      "dst": null
+    },
+    "calling_code": "1 (684)",
+    "endonyms": [
+      "Amerika Sāmoa"
+    ],
+    "languages": [
+      "English",
+      "Samoan"
+    ]
+  },
+  "AT": {
+    "exonym": "Austria",
+    "name": "The Republic of Austria",
+    "capital": "Vienna",
+    "iso_3166_1_a3": "AUT",
+    "tld": ".at",
+    "flag": "🇦🇹",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "43",
+    "endonyms": [
+      "Österreich"
+    ],
+    "languages": [
+      "German"
+    ]
+  },
+  "AU": {
+    "exonym": "Australia",
+    "name": "The Commonwealth of Australia",
+    "capital": "Canberra",
+    "iso_3166_1_a3": "AUS",
+    "tld": ".au",
+    "flag": "🇦🇺",
+    "currency": {
+      "name": "Australian Dollar",
+      "iso_4217": "AUD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+08:00 to 10:30",
+      "dst": "UTC+08:00 to 11:00"
+    },
+    "calling_code": "61",
+    "endonyms": null,
+    "languages": [
+      "Aboriginal languages",
+      "English"
+    ]
+  },
+  "AW": {
+    "exonym": "Aruba",
+    "name": "Aruba",
+    "capital": "Oranjestad, Aruba",
+    "iso_3166_1_a3": "ABW",
+    "tld": ".aw",
+    "flag": "🇦🇼",
+    "currency": {
+      "name": "Aruban Florin",
+      "iso_4217": "AWG",
+      "symbol": "ƒ",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "297",
+    "endonyms": null,
+    "languages": [
+      "Dutch",
+      "Papiamento"
+    ]
+  },
+  "AX": {
+    "exonym": "Åland Islands",
+    "name": "Åland",
+    "capital": "Mariehamn",
+    "iso_3166_1_a3": "ALA",
+    "tld": ".ax",
+    "flag": "🇦🇽",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "358 (18)",
+    "endonyms": [
+      "Ahvenanmaa",
+      "Åland"
+    ],
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ]
+  },
+  "AZ": {
+    "exonym": "Azerbaijan",
+    "name": "The Republic of Azerbaijan",
+    "capital": "Baku",
+    "iso_3166_1_a3": "AZE",
+    "tld": ".az",
+    "flag": "🇦🇿",
+    "currency": {
+      "name": "Azerbaijan Manat",
+      "iso_4217": "AZN",
+      "symbol": "₼",
+      "fraction": "Qəpik",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+04:00",
+      "dst": null
+    },
+    "calling_code": "994",
+    "endonyms": [
+      "Azərbaycan"
+    ],
+    "languages": [
+      "Azerbaijani"
+    ]
+  },
+  "BA": {
+    "exonym": "Bosnia and Herzegovina",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "iso_3166_1_a3": "BIH",
+    "tld": ".ba",
+    "flag": "🇧🇦",
+    "currency": {
+      "name": "Convertible Mark",
+      "iso_4217": "BAM",
+      "symbol": "KM",
+      "fraction": "Fening",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "387",
+    "endonyms": [
+      "Босна и Херцеговина"
+    ],
+    "languages": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ]
+  },
+  "BB": {
+    "exonym": "Barbados",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "iso_3166_1_a3": "BRB",
+    "tld": ".bb",
+    "flag": "🇧🇧",
+    "currency": {
+      "name": "Barbados Dollar",
+      "iso_4217": "BBD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (246)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "BD": {
+    "exonym": "Bangladesh",
+    "name": "The People's Republic of Bangladesh",
+    "capital": "Dhaka",
+    "iso_3166_1_a3": "BGD",
+    "tld": ".bd",
+    "flag": "🇧🇩",
+    "currency": {
+      "name": "Taka",
+      "iso_4217": "BDT",
+      "symbol": "৳",
+      "fraction": "Poisha",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+06:00",
+      "dst": null
+    },
+    "calling_code": "880",
+    "endonyms": [
+      "Bānglādesh",
+      "বাংলাদেশ"
+    ],
+    "languages": [
+      "Bengali"
+    ]
+  },
+  "BE": {
+    "exonym": "Belgium",
+    "name": "The Kingdom of Belgium",
+    "capital": "Brussels",
+    "iso_3166_1_a3": "BEL",
+    "tld": ".be",
+    "flag": "🇧🇪",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "32",
+    "endonyms": [
+      "Belgien",
+      "Belgique",
+      "België"
+    ],
+    "languages": [
+      "Dutch",
+      "French",
+      "German"
+    ]
+  },
+  "BF": {
+    "exonym": "Burkina Faso",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "iso_3166_1_a3": "BFA",
+    "tld": ".bf",
+    "flag": "🇧🇫",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "iso_4217": "XOF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "226",
+    "endonyms": null,
+    "languages": [
+      "French"
+    ]
+  },
+  "BG": {
+    "exonym": "Bulgaria",
+    "name": "The Republic of Bulgaria",
+    "capital": "Sofia",
+    "iso_3166_1_a3": "BGR",
+    "tld": ".bg",
+    "flag": "🇧🇬",
+    "currency": {
+      "name": "Bulgarian Lev",
+      "iso_4217": "BGN",
+      "symbol": "Lev",
+      "fraction": "Stotinka",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "359",
+    "endonyms": [
+      "Bălgarija",
+      "Bălgariya",
+      "България"
+    ],
+    "languages": [
+      "Bulgarian"
+    ]
+  },
+  "BH": {
+    "exonym": "Bahrain",
+    "name": "The Kingdom of Bahrain",
+    "capital": "Manama",
+    "iso_3166_1_a3": "BHR",
+    "tld": ".bh",
+    "flag": "🇧🇭",
+    "currency": {
+      "name": "Bahraini Dinar",
+      "iso_4217": "BHD",
+      "symbol": "BD",
+      "fraction": "Fils",
+      "fractions_in_unit": 1000
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "973",
+    "endonyms": [
+      "Al-Baḥrayn",
+      "البحرين"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "BI": {
+    "exonym": "Burundi",
+    "name": "The Republic of Burundi",
+    "capital": "Gitega",
+    "iso_3166_1_a3": "BDI",
+    "tld": ".bi",
+    "flag": "🇧🇮",
+    "currency": {
+      "name": "Burundi Franc",
+      "iso_4217": "BIF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "257",
+    "endonyms": [
+      "Uburundi"
+    ],
+    "languages": [
+      "French",
+      "Kirundi"
+    ]
+  },
+  "BJ": {
+    "exonym": "Benin",
+    "name": "The Republic of Benin",
+    "capital": "Porto-Novo",
+    "iso_3166_1_a3": "BEN",
+    "tld": ".bj",
+    "flag": "🇧🇯",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "iso_4217": "XOF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "229",
+    "endonyms": [
+      "Bénin"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "BL": {
+    "exonym": "Saint Barthélemy",
+    "name": "The Collectivity of Saint-Barthélemy",
+    "capital": "Gustavia, Saint Barthélemy",
+    "iso_3166_1_a3": "BLM",
+    "tld": ".bl",
+    "flag": "🇧🇱",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "590",
+    "endonyms": [
+      "Saint-Barthélemy"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "BM": {
+    "exonym": "Bermuda",
+    "name": "Bermuda",
+    "capital": "Hamilton, Bermuda",
+    "iso_3166_1_a3": "BMU",
+    "tld": ".bm",
+    "flag": "🇧🇲",
+    "currency": {
+      "name": "Bermudian Dollar",
+      "iso_4217": "BMD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": "UTC−03:00"
+    },
+    "calling_code": "1 (441)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "BN": {
+    "exonym": "Brunei Darussalam",
+    "name": "The Nation of Brunei, the Abode of Peace",
+    "capital": "Bandar Seri Begawan",
+    "iso_3166_1_a3": "BRN",
+    "tld": ".bn",
+    "flag": "🇧🇳",
+    "currency": {
+      "name": "Brunei Dollar",
+      "iso_4217": "BND",
+      "symbol": "$",
+      "fraction": "Sen",
+      "fractions_in_unit": 10
+    },
+    "time": {
+      "zone": "UTC+08:00",
+      "dst": null
+    },
+    "calling_code": "673",
+    "endonyms": [
+      "Brunei",
+      "بروني"
+    ],
+    "languages": [
+      "Malay"
+    ]
+  },
+  "BO": {
+    "exonym": "Bolivia, Plurinational State of",
+    "name": "The Plurinational State of Bolivia",
+    "capital": "La Paz, Bolivia",
+    "iso_3166_1_a3": "BOL",
+    "tld": ".bo",
+    "flag": "🇧🇴",
+    "currency": {
+      "name": "Peso boliviano",
+      "iso_4217": "BOP",
+      "symbol": "Bs",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "591",
+    "endonyms": [
+      "Bolivia",
+      "Buliwya",
+      "Volívia",
+      "Wuliwya"
+    ],
+    "languages": [
+      "Aymara",
+      "Guaraní",
+      "Quechua",
+      "Spanish"
+    ]
+  },
+  "BQ": {
+    "exonym": "Bonaire, Sint Eustatius and Saba",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "capital": "Kralendijk",
+    "iso_3166_1_a3": "BES",
+    "tld": ".bq",
+    "flag": "🇧🇶",
+    "currency": {
+      "name": "US Dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "599 (7)",
+    "endonyms": [
+      "Bonaire"
+    ],
+    "languages": [
+      "Dutch"
+    ]
+  },
+  "BR": {
+    "exonym": "Brazil",
+    "name": "The Federative Republic of Brazil",
+    "capital": "Brasília",
+    "iso_3166_1_a3": "BRA",
+    "tld": ".br",
+    "flag": "🇧🇷",
+    "currency": {
+      "name": "Brazilian Real",
+      "iso_4217": "BRL",
+      "symbol": "R$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00 to –02:00",
+      "dst": null
+    },
+    "calling_code": "55",
+    "endonyms": [
+      "Brasil"
+    ],
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  "BS": {
+    "exonym": "Bahamas",
+    "name": "The Commonwealth of The Bahamas",
+    "capital": "Nassau, Bahamas",
+    "iso_3166_1_a3": "BHS",
+    "tld": ".bs",
+    "flag": "🇧🇸",
+    "currency": {
+      "name": "Bahamian dollar",
+      "iso_4217": "BSD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": "UTC−04:00"
+    },
+    "calling_code": "1 (242)",
+    "endonyms": [
+      "The Bahamas"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "BT": {
+    "exonym": "Bhutan",
+    "name": "The Kingdom of Bhutan",
+    "capital": "Thimphu",
+    "iso_3166_1_a3": "BTN",
+    "tld": ".bt",
+    "flag": "🇧🇹",
+    "currency": {
+      "name": "Indian Rupee",
+      "iso_4217": "INR",
+      "symbol": "Nu",
+      "fraction": "Chetrum",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+06:00",
+      "dst": null
+    },
+    "calling_code": "975",
+    "endonyms": [
+      "Druk Yul",
+      "འབྲུག་ཡུལ"
+    ],
+    "languages": [
+      "Dzongkha"
+    ]
+  },
+  "BV": {
+    "exonym": "Bouvet Island",
+    "name": "Bouvet Island",
+    "capital": null,
+    "iso_3166_1_a3": "BVT",
+    "tld": null,
+    "flag": "🇧🇻",
+    "currency": {
+      "name": "Norwegian Krone",
+      "iso_4217": "NOK",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": null,
+    "languages": null
+  },
+  "BW": {
+    "exonym": "Botswana",
+    "name": "The Republic of Botswana",
+    "capital": "Gaborone",
+    "iso_3166_1_a3": "BWA",
+    "tld": ".bw",
+    "flag": "🇧🇼",
+    "currency": {
+      "name": "Pula",
+      "iso_4217": "BWP",
+      "symbol": "P",
+      "fraction": "Thebe",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "267",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Tswana"
+    ]
+  },
+  "BY": {
+    "exonym": "Belarus",
+    "name": "The Republic of Belarus",
+    "capital": "Minsk",
+    "iso_3166_1_a3": "BLR",
+    "tld": ".by",
+    "flag": "🇧🇾",
+    "currency": {
+      "name": "Belarusian Ruble",
+      "iso_4217": "BYN",
+      "symbol": "Br",
+      "fraction": "Copeck",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "375",
+    "endonyms": [
+      "Bielaruś",
+      "Беларусь"
+    ],
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ]
+  },
+  "BZ": {
+    "exonym": "Belize",
+    "name": "Belize",
+    "capital": "Belmopan",
+    "iso_3166_1_a3": "BLZ",
+    "tld": ".bz",
+    "flag": "🇧🇿",
+    "currency": {
+      "name": "Belize Dollar",
+      "iso_4217": "BZD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−06:00",
+      "dst": null
+    },
+    "calling_code": "501",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "CA": {
+    "exonym": "Canada",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "iso_3166_1_a3": "CAN",
+    "tld": ".ca",
+    "flag": "🇨🇦",
+    "currency": {
+      "name": "Canadian Dollar",
+      "iso_4217": "CAD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−08:00 to –03:30",
+      "dst": "UTC−07:00 to –02:30"
+    },
+    "calling_code": "1",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  "CC": {
+    "exonym": "Cocos (Keeling) Islands",
+    "name": "The Territory of Cocos (Keeling) Islands",
+    "capital": "West Island, Cocos (Keeling) Islands",
+    "iso_3166_1_a3": "CCK",
+    "tld": ".cc",
+    "flag": "🇨🇨",
+    "currency": null,
+    "time": {
+      "zone": "UTC+06:30",
+      "dst": null
+    },
+    "calling_code": "61 (89162)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "CD": {
+    "exonym": "Congo, the Democratic Republic of the",
+    "name": "The Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "iso_3166_1_a3": "COD",
+    "tld": ".cd",
+    "flag": "🇨🇩",
+    "currency": {
+      "name": "Congolese franc",
+      "iso_4217": "CDF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "Democratic Republic of the Congo",
+      "Jamhuri ya Kidemokrasia ya Kongo",
+      "Repubilika ya Kôngo ya Dimokalasi",
+      "Republíki ya Kongó Demokratíki",
+      "République démocratique du Congo"
+    ],
+    "languages": [
+      "French",
+      "Kongo",
+      "Lingala",
+      "Swahili"
+    ]
+  },
+  "CF": {
+    "exonym": "Central African Republic",
+    "name": "The Central African Republic",
+    "capital": "Bangui",
+    "iso_3166_1_a3": "CAF",
+    "tld": ".cf",
+    "flag": "🇨🇫",
+    "currency": {
+      "name": "Central African CFA franc",
+      "iso_4217": "XAF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "236",
+    "endonyms": [
+      "Bêafrîka",
+      "Centrafrique"
+    ],
+    "languages": [
+      "French",
+      "Sango"
+    ]
+  },
+  "CG": {
+    "exonym": "Congo",
+    "name": "The Republic of the Congo",
+    "capital": "Brazzaville",
+    "iso_3166_1_a3": "COG",
+    "tld": ".cg",
+    "flag": "🇨🇬",
+    "currency": {
+      "name": "Central African CFA franc",
+      "iso_4217": "XAF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "242",
+    "endonyms": [
+      "Repubilika ya Kôngo",
+      "Republic of the Congo",
+      "Republíki ya Kongó",
+      "République du Congo"
+    ],
+    "languages": [
+      "French",
+      "Kongo",
+      "Lingala"
+    ]
+  },
+  "CH": {
+    "exonym": "Switzerland",
+    "name": "The Swiss Confederation",
+    "capital": "Bern",
+    "iso_3166_1_a3": "CHE",
+    "tld": ".ch",
+    "flag": "🇨🇭",
+    "currency": {
+      "name": "Swiss Franc",
+      "iso_4217": "CHF",
+      "symbol": "Fr",
+      "fraction": "Rappen",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "41",
+    "endonyms": [
+      "Schweiz",
+      "Suisse",
+      "Svizra",
+      "Svizzera"
+    ],
+    "languages": [
+      "French",
+      "German",
+      "Italian",
+      "Romansh"
+    ]
+  },
+  "CI": {
+    "exonym": "Côte d'Ivoire",
+    "name": "The Republic of Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "iso_3166_1_a3": "CIV",
+    "tld": ".ci",
+    "flag": "🇨🇮",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "iso_4217": "XOF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "Ivory Coast"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "CK": {
+    "exonym": "Cook Islands",
+    "name": "The Cook Islands",
+    "capital": "Avarua",
+    "iso_3166_1_a3": "COK",
+    "tld": ".ck",
+    "flag": "🇨🇰",
+    "currency": {
+      "name": "Cook Islands dollar",
+      "iso_4217": null,
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−10:00",
+      "dst": null
+    },
+    "calling_code": "682",
+    "endonyms": [
+      "Kūki 'Āirani"
+    ],
+    "languages": [
+      "Cook Islands Māori",
+      "English"
+    ]
+  },
+  "CL": {
+    "exonym": "Chile",
+    "name": "The Republic of Chile",
+    "capital": "Santiago",
+    "iso_3166_1_a3": "CHL",
+    "tld": ".cl",
+    "flag": "🇨🇱",
+    "currency": {
+      "name": "Chilean Peso",
+      "iso_4217": "CLP",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−06:00 to –04:00",
+      "dst": "UTC−05:00 to –03:00"
+    },
+    "calling_code": "56",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "CM": {
+    "exonym": "Cameroon",
+    "name": "The Republic of Cameroon",
+    "capital": "Yaoundé",
+    "iso_3166_1_a3": "CMR",
+    "tld": ".cm",
+    "flag": "🇨🇲",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "iso_4217": "XAF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "237",
+    "endonyms": [
+      "Cameroun"
+    ],
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  "CN": {
+    "exonym": "China",
+    "name": "The People's Republic of China",
+    "capital": "Beijing",
+    "iso_3166_1_a3": "CHN",
+    "tld": ".cn",
+    "flag": "🇨🇳",
+    "currency": {
+      "name": "Yuan Renminbi",
+      "iso_4217": "CNY",
+      "symbol": "¥",
+      "fraction": "Jiao",
+      "fractions_in_unit": 10
+    },
+    "time": {
+      "zone": "UTC+08:00",
+      "dst": null
+    },
+    "calling_code": "86",
+    "endonyms": [
+      "中国 (中华人民共和国)"
+    ],
+    "languages": [
+      "Mandarin Chinese"
+    ]
+  },
+  "CO": {
+    "exonym": "Colombia",
+    "name": "The Republic of Colombia",
+    "capital": "Bogotá",
+    "iso_3166_1_a3": "COL",
+    "tld": ".co",
+    "flag": "🇨🇴",
+    "currency": {
+      "name": "Colombian Peso",
+      "iso_4217": "COP",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": null
+    },
+    "calling_code": "57",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "CR": {
+    "exonym": "Costa Rica",
+    "name": "The Republic of Costa Rica",
+    "capital": "San José, Costa Rica",
+    "iso_3166_1_a3": "CRI",
+    "tld": ".cr",
+    "flag": "🇨🇷",
+    "currency": {
+      "name": "Costa Rican Colon",
+      "iso_4217": "CRC",
+      "symbol": "₡",
+      "fraction": "Céntimo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−06:00",
+      "dst": null
+    },
+    "calling_code": "506",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "CU": {
+    "exonym": "Cuba",
+    "name": "The Republic of Cuba",
+    "capital": "Havana",
+    "iso_3166_1_a3": "CUB",
+    "tld": ".cu",
+    "flag": "🇨🇺",
+    "currency": {
+      "name": "Cuban Peso",
+      "iso_4217": "CUP",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": "UTC−04:00"
+    },
+    "calling_code": "53",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "CV": {
+    "exonym": "Cape Verde",
+    "name": "The Republic of Cabo Verde",
+    "capital": "Praia",
+    "iso_3166_1_a3": "CPV",
+    "tld": ".cv",
+    "flag": "🇨🇻",
+    "currency": {
+      "name": "Cabo Verde Escudo",
+      "iso_4217": "CVE",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−01:00",
+      "dst": null
+    },
+    "calling_code": "238",
+    "endonyms": [
+      "Cabo Verde"
+    ],
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  "CW": {
+    "exonym": "Curaçao",
+    "name": "The Country of Curaçao",
+    "capital": "Willemstad",
+    "iso_3166_1_a3": "CUW",
+    "tld": ".cw",
+    "flag": "🇨🇼",
+    "currency": {
+      "name": "Netherlands Antillean Guilder",
+      "iso_4217": "ANG",
+      "symbol": "ƒ",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "599 (9)",
+    "endonyms": [
+      "Kòrsou"
+    ],
+    "languages": [
+      "Dutch",
+      "English",
+      "Papiamento"
+    ]
+  },
+  "CX": {
+    "exonym": "Christmas Island",
+    "name": "The Territory of Christmas Island",
+    "capital": "Flying Fish Cove",
+    "iso_3166_1_a3": "CXR",
+    "tld": ".cx",
+    "flag": "🇨🇽",
+    "currency": {
+      "name": "Australian Dollar",
+      "iso_4217": "AUD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+07:00",
+      "dst": null
+    },
+    "calling_code": "61 (89164)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "CY": {
+    "exonym": "Cyprus",
+    "name": "The Republic of Cyprus",
+    "capital": "Nicosia",
+    "iso_3166_1_a3": "CYP",
+    "tld": ".cy",
+    "flag": "🇨🇾",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "357",
+    "endonyms": [
+      "Kypros",
+      "Kıbrıs",
+      "Κύπρος"
+    ],
+    "languages": [
+      "Greek",
+      "Turkish"
+    ]
+  },
+  "CZ": {
+    "exonym": "Czech Republic",
+    "name": "The Czech Republic",
+    "capital": "Prague",
+    "iso_3166_1_a3": "CZE",
+    "tld": ".cz",
+    "flag": "🇨🇿",
+    "currency": {
+      "name": "Czech koruna",
+      "iso_4217": "CZK",
+      "symbol": "Kč",
+      "fraction": "Heller",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "420",
+    "endonyms": [
+      "Česko",
+      "Česká republika"
+    ],
+    "languages": [
+      "Czech"
+    ]
+  },
+  "DE": {
+    "exonym": "Germany",
+    "name": "The Federal Republic of Germany",
+    "capital": "Berlin",
+    "iso_3166_1_a3": "DEU",
+    "tld": ".de",
+    "flag": "🇩🇪",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "49",
+    "endonyms": [
+      "Deutschland"
+    ],
+    "languages": [
+      "German"
+    ]
+  },
+  "DJ": {
+    "exonym": "Djibouti",
+    "name": "The Republic of Djibouti",
+    "capital": "Djibouti (city)",
+    "iso_3166_1_a3": "DJI",
+    "tld": ".dj",
+    "flag": "🇩🇯",
+    "currency": {
+      "name": "Djibouti Franc",
+      "iso_4217": "DJF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "253",
+    "endonyms": [
+      "Gabuuti",
+      "Jabuuti",
+      "Jībūtī",
+      "جيبوتي"
+    ],
+    "languages": [
+      "Afar",
+      "Arabic",
+      "French",
+      "Somali"
+    ]
+  },
+  "DK": {
+    "exonym": "Denmark",
+    "name": "The Kingdom of Denmark",
+    "capital": "Copenhagen",
+    "iso_3166_1_a3": "DNK",
+    "tld": ".dk",
+    "flag": "🇩🇰",
+    "currency": {
+      "name": "Danish Krone",
+      "iso_4217": "DKK",
+      "symbol": "kr",
+      "fraction": "Øre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "45",
+    "endonyms": [
+      "Danmark"
+    ],
+    "languages": [
+      "Danish"
+    ]
+  },
+  "DM": {
+    "exonym": "Dominica",
+    "name": "The Commonwealth of Dominica",
+    "capital": "Roseau",
+    "iso_3166_1_a3": "DMA",
+    "tld": ".dm",
+    "flag": "🇩🇲",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "iso_4217": "XCD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (767)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "DO": {
+    "exonym": "Dominican Republic",
+    "name": "The Dominican Republic",
+    "capital": "Santo Domingo",
+    "iso_3166_1_a3": "DOM",
+    "tld": ".do",
+    "flag": "🇩🇴",
+    "currency": {
+      "name": "Dominican peso",
+      "iso_4217": "DOP",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (809, 829, 849)",
+    "endonyms": [
+      "República Dominicana"
+    ],
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "DZ": {
+    "exonym": "Algeria",
+    "name": "The People's Democratic Republic of Algeria",
+    "capital": "Algiers",
+    "iso_3166_1_a3": "DZA",
+    "tld": ".dz",
+    "flag": "🇩🇿",
+    "currency": {
+      "name": "Algerian Dinar",
+      "iso_4217": "DZD",
+      "symbol": "DA",
+      "fraction": "Santeem",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "213",
+    "endonyms": [
+      "Al-Jazā'ir",
+      "Dzayer",
+      "الجزائر",
+      "ⴷⵣⴰⵢⴻⵔ"
+    ],
+    "languages": [
+      "Arabic",
+      "Berber language"
+    ]
+  },
+  "EC": {
+    "exonym": "Ecuador",
+    "name": "The Republic of Ecuador",
+    "capital": "Quito",
+    "iso_3166_1_a3": "ECU",
+    "tld": ".ec",
+    "flag": "🇪🇨",
+    "currency": {
+      "name": "US Dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−06:00 to –05:00",
+      "dst": null
+    },
+    "calling_code": "593",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "EE": {
+    "exonym": "Estonia",
+    "name": "The Republic of Estonia",
+    "capital": "Tallinn",
+    "iso_3166_1_a3": "EST",
+    "tld": ".ee",
+    "flag": "🇪🇪",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "372",
+    "endonyms": [
+      "Eesti"
+    ],
+    "languages": [
+      "Estonian"
+    ]
+  },
+  "EG": {
+    "exonym": "Egypt",
+    "name": "The Arab Republic of Egypt",
+    "capital": "Cairo",
+    "iso_3166_1_a3": "EGY",
+    "tld": ".eg",
+    "flag": "🇪🇬",
+    "currency": {
+      "name": "Egyptian Pound",
+      "iso_4217": "EGP",
+      "symbol": "LE",
+      "fraction": "Piastre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "20",
+    "endonyms": [
+      "Masr",
+      "Misr",
+      "مصر"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "EH": {
+    "exonym": "Western Sahara",
+    "name": "The Sahrawi Arab Democratic Republic",
+    "capital": null,
+    "iso_3166_1_a3": "ESH",
+    "tld": null,
+    "flag": "🇪🇭",
+    "currency": {
+      "name": "Moroccan Dirham",
+      "iso_4217": "MAD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": null,
+    "languages": null
+  },
+  "ER": {
+    "exonym": "Eritrea",
+    "name": "The State of Eritrea",
+    "capital": "Asmara",
+    "iso_3166_1_a3": "ERI",
+    "tld": ".er",
+    "flag": "🇪🇷",
+    "currency": {
+      "name": "Nakfa",
+      "iso_4217": "ERN",
+      "symbol": "Nkf",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "291",
+    "endonyms": [
+      "Ertra",
+      "Iritriya",
+      "إرتريا",
+      "ኤርትራ"
+    ],
+    "languages": [
+      "Arabic",
+      "Tigrinya"
+    ]
+  },
+  "ES": {
+    "exonym": "Spain",
+    "name": "The Kingdom of Spain",
+    "capital": "Madrid",
+    "iso_3166_1_a3": "ESP",
+    "tld": ".es",
+    "flag": "🇪🇸",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "34",
+    "endonyms": [
+      "Espainia",
+      "Espanha",
+      "Espanya",
+      "España"
+    ],
+    "languages": [
+      "Aranese",
+      "Basque",
+      "Catalan",
+      "Galician",
+      "Galician (R)",
+      "Spanish"
+    ]
+  },
+  "ET": {
+    "exonym": "Ethiopia",
+    "name": "The Federal Democratic Republic of Ethiopia",
+    "capital": "Addis Ababa",
+    "iso_3166_1_a3": "ETH",
+    "tld": ".et",
+    "flag": "🇪🇹",
+    "currency": {
+      "name": "Ethiopian Birr",
+      "iso_4217": "ETB",
+      "symbol": "Br",
+      "fraction": "Santim",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "251",
+    "endonyms": [
+      "Ityop'ia",
+      "ኢትዮጵያ"
+    ],
+    "languages": [
+      "Amharic"
+    ]
+  },
+  "FI": {
+    "exonym": "Finland",
+    "name": "The Republic of Finland",
+    "capital": "Helsinki",
+    "iso_3166_1_a3": "FIN",
+    "tld": ".fi",
+    "flag": "🇫🇮",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "358",
+    "endonyms": [
+      "Suomi"
+    ],
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ]
+  },
+  "FJ": {
+    "exonym": "Fiji",
+    "name": "The Republic of Fiji",
+    "capital": "Suva",
+    "iso_3166_1_a3": "FJI",
+    "tld": ".fj",
+    "flag": "🇫🇯",
+    "currency": {
+      "name": "Fiji Dollar",
+      "iso_4217": "FJD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+12:00",
+      "dst": "UTC+13:00"
+    },
+    "calling_code": "679",
+    "endonyms": [
+      "Viti",
+      "फ़िजी"
+    ],
+    "languages": [
+      "English",
+      "Fiji Hindi",
+      "Fijian"
+    ]
+  },
+  "FK": {
+    "exonym": "Falkland Islands (Malvinas)",
+    "name": "The Falkland Islands",
+    "capital": "Stanley, Falkland Islands",
+    "iso_3166_1_a3": "FLK",
+    "tld": ".fk",
+    "flag": "🇫🇰",
+    "currency": {
+      "name": "Falkland Islands pound",
+      "iso_4217": "FKP",
+      "symbol": "£",
+      "fraction": "Penny",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−03:00",
+      "dst": null
+    },
+    "calling_code": "500",
+    "endonyms": [
+      "Falkland Islands"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "FM": {
+    "exonym": "Micronesia, Federated States of",
+    "name": "The Federated States of Micronesia",
+    "capital": "Palikir",
+    "iso_3166_1_a3": "FSM",
+    "tld": ".fm",
+    "flag": "🇫🇲",
+    "currency": {
+      "name": "United States dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+10:00 to 11:00",
+      "dst": null
+    },
+    "calling_code": "691",
+    "endonyms": [
+      "Federated States of Micronesia"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "FO": {
+    "exonym": "Faroe Islands",
+    "name": "The Faroe Islands",
+    "capital": "Tórshavn",
+    "iso_3166_1_a3": "FRO",
+    "tld": ".fo",
+    "flag": "🇫🇴",
+    "currency": {
+      "name": "Danish krone",
+      "iso_4217": "DKK",
+      "symbol": "kr",
+      "fraction": "Øre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": "UTC+01:00"
+    },
+    "calling_code": "298",
+    "endonyms": [
+      "Færøerne",
+      "Føroyar"
+    ],
+    "languages": [
+      "Danish",
+      "Faroese"
+    ]
+  },
+  "FR": {
+    "exonym": "France",
+    "name": "The French Republic",
+    "capital": "Paris",
+    "iso_3166_1_a3": "FRA",
+    "tld": ".fr",
+    "flag": "🇫🇷",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "33",
+    "endonyms": null,
+    "languages": [
+      "French"
+    ]
+  },
+  "GA": {
+    "exonym": "Gabon",
+    "name": "The Gabonese Republic",
+    "capital": "Libreville",
+    "iso_3166_1_a3": "GAB",
+    "tld": ".ga",
+    "flag": "🇬🇦",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "iso_4217": "XAF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "241",
+    "endonyms": [
+      "République gabonaise"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "GB": {
+    "exonym": "United Kingdom",
+    "name": "The United Kingdom of Great Britain and Northern Ireland",
+    "capital": "London",
+    "iso_3166_1_a3": "GBR",
+    "tld": ".gb",
+    "flag": "🇬🇧",
+    "currency": {
+      "name": "Sterling",
+      "iso_4217": "GBP",
+      "symbol": "£",
+      "fraction": "Penny",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": "UTC+01:00"
+    },
+    "calling_code": "44",
+    "endonyms": [
+      "An Rywvaneth Unys",
+      "Rìoghachd Aonaichte",
+      "Ríocht Aontaithe",
+      "Unitit Kinrick",
+      "Y Deyrnas Unedig"
+    ],
+    "languages": [
+      "Cornish",
+      "English",
+      "Irish",
+      "Scots",
+      "Scots Gaelic",
+      "Welsh"
+    ]
+  },
+  "GD": {
+    "exonym": "Grenada",
+    "name": "Grenada",
+    "capital": "St. George's, Grenada",
+    "iso_3166_1_a3": "GRD",
+    "tld": ".gd",
+    "flag": "🇬🇩",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "iso_4217": "XCD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (473)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "GE": {
+    "exonym": "Georgia",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "iso_3166_1_a3": "GEO",
+    "tld": ".ge",
+    "flag": "🇬🇪",
+    "currency": {
+      "name": "Lari",
+      "iso_4217": "GEL",
+      "symbol": "₾",
+      "fraction": "Tetri",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+04:00",
+      "dst": null
+    },
+    "calling_code": "995",
+    "endonyms": [
+      "Georgia (country)",
+      "Sak'art'velo",
+      "საქართველო"
+    ],
+    "languages": [
+      "Georgian"
+    ]
+  },
+  "GF": {
+    "exonym": "French Guiana",
+    "name": "Guyane",
+    "capital": "Cayenne",
+    "iso_3166_1_a3": "GUF",
+    "tld": ".gf",
+    "flag": "🇬🇫",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC−03:00",
+      "dst": null
+    },
+    "calling_code": "594",
+    "endonyms": [
+      "Guyane"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "GG": {
+    "exonym": "Guernsey",
+    "name": "The Bailiwick of Guernsey",
+    "capital": "Saint Peter Port",
+    "iso_3166_1_a3": "GGY",
+    "tld": ".gg",
+    "flag": "🇬🇬",
+    "currency": {
+      "name": "Pound Sterling",
+      "iso_4217": "GBP",
+      "symbol": "£",
+      "fraction": "Penny",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": "UTC+01:00"
+    },
+    "calling_code": "44 (1481, 7781, 7839, 7911)",
+    "endonyms": [
+      "Bailiwick of Guernsey"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "GH": {
+    "exonym": "Ghana",
+    "name": "The Republic of Ghana",
+    "capital": "Accra",
+    "iso_3166_1_a3": "GHA",
+    "tld": ".gh",
+    "flag": "🇬🇭",
+    "currency": {
+      "name": "Ghana Cedi",
+      "iso_4217": "GHS",
+      "symbol": "₵",
+      "fraction": "Pesewa",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "233",
+    "endonyms": [
+      "Gaana",
+      "Gana"
+    ],
+    "languages": [
+      "Akan",
+      "English",
+      "Ewe",
+      "Twi"
+    ]
+  },
+  "GI": {
+    "exonym": "Gibraltar",
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "iso_3166_1_a3": "GIB",
+    "tld": ".gi",
+    "flag": "🇬🇮",
+    "currency": {
+      "name": "Gibraltar Pound",
+      "iso_4217": "GIP",
+      "symbol": "£",
+      "fraction": "Penny",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "350",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "GL": {
+    "exonym": "Greenland",
+    "name": "Kalaallit Nunaat",
+    "capital": "Nuuk",
+    "iso_3166_1_a3": "GRL",
+    "tld": ".gl",
+    "flag": "🇬🇱",
+    "currency": {
+      "name": "Danish Krone",
+      "iso_4217": "DKK",
+      "symbol": "kr",
+      "fraction": "Øre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00 to 01:00",
+      "dst": "UTC−03:00 to 00:00"
+    },
+    "calling_code": "299",
+    "endonyms": [
+      "Grønland",
+      "Kalaallit Nunaat"
+    ],
+    "languages": [
+      "Danish",
+      "Greenlandic"
+    ]
+  },
+  "GM": {
+    "exonym": "Gambia",
+    "name": "The Republic of The Gambia",
+    "capital": "Banjul",
+    "iso_3166_1_a3": "GMB",
+    "tld": ".gm",
+    "flag": "🇬🇲",
+    "currency": {
+      "name": "Gambian dalasi",
+      "iso_4217": "GMD",
+      "symbol": "D",
+      "fraction": "Butut",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "220",
+    "endonyms": [
+      "The Gambia"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "GN": {
+    "exonym": "Guinea",
+    "name": "The Republic of Guinea",
+    "capital": "Conakry",
+    "iso_3166_1_a3": "GIN",
+    "tld": ".gn",
+    "flag": "🇬🇳",
+    "currency": {
+      "name": "Guinean Franc",
+      "iso_4217": "GNF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "224",
+    "endonyms": [
+      "Gine",
+      "Guinée"
+    ],
+    "languages": [
+      "French",
+      "Maninka",
+      "Pular",
+      "Susu"
+    ]
+  },
+  "GP": {
+    "exonym": "Guadeloupe",
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "iso_3166_1_a3": "GLP",
+    "tld": ".gp",
+    "flag": "🇬🇵",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "590",
+    "endonyms": null,
+    "languages": [
+      "French"
+    ]
+  },
+  "GQ": {
+    "exonym": "Equatorial Guinea",
+    "name": "The Republic of Equatorial Guinea",
+    "capital": "Malabo",
+    "iso_3166_1_a3": "GNQ",
+    "tld": ".gq",
+    "flag": "🇬🇶",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "iso_4217": "XAF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "240",
+    "endonyms": [
+      "Guinea Ecuatorial",
+      "Guiné Equatorial",
+      "Guinée équatoriale"
+    ],
+    "languages": [
+      "French",
+      "Portuguese",
+      "Spanish"
+    ]
+  },
+  "GR": {
+    "exonym": "Greece",
+    "name": "The Hellenic Republic",
+    "capital": "Athens",
+    "iso_3166_1_a3": "GRC",
+    "tld": ".gr",
+    "flag": "🇬🇷",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "30",
+    "endonyms": [
+      "Ellada",
+      "Hellas",
+      "Ελλάδα",
+      "Ελλάς"
+    ],
+    "languages": [
+      "Greek"
+    ]
+  },
+  "GS": {
+    "exonym": "South Georgia and the South Sandwich Islands",
+    "name": "South Georgia and the South Sandwich Islands",
+    "capital": null,
+    "iso_3166_1_a3": "SGS",
+    "tld": ".gs",
+    "flag": "🇬🇸",
+    "currency": {
+      "name": "Falkland Islands pound",
+      "iso_4217": "FKP",
+      "symbol": "£",
+      "fraction": "Penny",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−02:00",
+      "dst": null
+    },
+    "calling_code": "500",
+    "endonyms": null,
+    "languages": null
+  },
+  "GT": {
+    "exonym": "Guatemala",
+    "name": "The Republic of Guatemala",
+    "capital": "Guatemala City",
+    "iso_3166_1_a3": "GTM",
+    "tld": ".gt",
+    "flag": "🇬🇹",
+    "currency": {
+      "name": "Quetzal",
+      "iso_4217": "GTQ",
+      "symbol": "Q",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−06:00",
+      "dst": null
+    },
+    "calling_code": "502",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "GU": {
+    "exonym": "Guam",
+    "name": "The Territory of Guam",
+    "capital": "Hagåtña",
+    "iso_3166_1_a3": "GUM",
+    "tld": ".gu",
+    "flag": "🇬🇺",
+    "currency": {
+      "name": "US Dollar",
+      "iso_4217": "USD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+10:00",
+      "dst": null
+    },
+    "calling_code": "1 (671)",
+    "endonyms": [
+      "Guåhån"
+    ],
+    "languages": [
+      "Chamorro",
+      "English"
+    ]
+  },
+  "GW": {
+    "exonym": "Guinea-Bissau",
+    "name": "The Republic of Guinea-Bissau",
+    "capital": "Bissau",
+    "iso_3166_1_a3": "GNB",
+    "tld": ".gw",
+    "flag": "🇬🇼",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "iso_4217": "XOF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "245",
+    "endonyms": [
+      "Guiné-Bissau"
+    ],
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  "GY": {
+    "exonym": "Guyana",
+    "name": "The Co-operative Republic of Guyana",
+    "capital": "Georgetown, Guyana",
+    "iso_3166_1_a3": "GUY",
+    "tld": ".gy",
+    "flag": "🇬🇾",
+    "currency": {
+      "name": "Guyana Dollar",
+      "iso_4217": "GYD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "592",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "HK": {
+    "exonym": "Hong Kong",
+    "name": "The Hong Kong Special Administrative Region of China",
+    "capital": "Hong Kong",
+    "iso_3166_1_a3": "HKG",
+    "tld": ".hk",
+    "flag": "🇭🇰",
+    "currency": {
+      "name": "Hong Kong Dollar",
+      "iso_4217": "HKD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+08:00",
+      "dst": null
+    },
+    "calling_code": "852",
+    "endonyms": [
+      "Heung Gong",
+      "香港"
+    ],
+    "languages": [
+      "Cantonese",
+      "English"
+    ]
+  },
+  "HM": {
+    "exonym": "Heard Island and McDonald Islands",
+    "name": "The Territory of Heard Island and McDonald Islands",
+    "capital": null,
+    "iso_3166_1_a3": "HMD",
+    "tld": ".hm",
+    "flag": "🇭🇲",
+    "currency": {
+      "name": "Australian Dollar",
+      "iso_4217": "AUD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": null,
+    "languages": null
+  },
+  "HN": {
+    "exonym": "Honduras",
+    "name": "The Republic of Honduras",
+    "capital": "Tegucigalpa",
+    "iso_3166_1_a3": "HND",
+    "tld": ".hn",
+    "flag": "🇭🇳",
+    "currency": {
+      "name": "Lempira",
+      "iso_4217": "HNL",
+      "symbol": "L",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−06:00",
+      "dst": null
+    },
+    "calling_code": "504",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "HR": {
+    "exonym": "Croatia",
+    "name": "The Republic of Croatia",
+    "capital": "Zagreb",
+    "iso_3166_1_a3": "HRV",
+    "tld": ".hr",
+    "flag": "🇭🇷",
+    "currency": {
+      "name": "Kuna",
+      "iso_4217": "HRK",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "385",
+    "endonyms": [
+      "Hrvatska"
+    ],
+    "languages": [
+      "Croatian"
+    ]
+  },
+  "HT": {
+    "exonym": "Haiti",
+    "name": "The Republic of Haiti",
+    "capital": "Port-au-Prince",
+    "iso_3166_1_a3": "HTI",
+    "tld": ".ht",
+    "flag": "🇭🇹",
+    "currency": {
+      "name": "Gourde",
+      "iso_4217": "HTG",
+      "symbol": "G",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": "UTC−04:00"
+    },
+    "calling_code": "509",
+    "endonyms": [
+      "Ayiti",
+      "Haïti"
+    ],
+    "languages": [
+      "French",
+      "Haitian Creole"
+    ]
+  },
+  "HU": {
+    "exonym": "Hungary",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "iso_3166_1_a3": "HUN",
+    "tld": ".hu",
+    "flag": "🇭🇺",
+    "currency": {
+      "name": "Forint",
+      "iso_4217": "HUF",
+      "symbol": "Ft",
+      "fraction": "Fillér",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "36",
+    "endonyms": [
+      "Magyarország"
+    ],
+    "languages": [
+      "Hungarian"
+    ]
+  },
+  "ID": {
+    "exonym": "Indonesia",
+    "name": "The Republic of Indonesia",
+    "capital": "Jakarta",
+    "iso_3166_1_a3": "IDN",
+    "tld": ".id",
+    "flag": "🇮🇩",
+    "currency": {
+      "name": "Rupiah",
+      "iso_4217": "IDR",
+      "symbol": "Rp",
+      "fraction": "Sen",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+07:00 to 09:00",
+      "dst": null
+    },
+    "calling_code": "62",
+    "endonyms": null,
+    "languages": [
+      "Indonesian"
+    ]
+  },
+  "IE": {
+    "exonym": "Ireland",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "iso_3166_1_a3": "IRL",
+    "tld": ".ie",
+    "flag": "🇮🇪",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": "UTC+01:00"
+    },
+    "calling_code": "353",
+    "endonyms": [
+      "Republic of Ireland",
+      "Éire"
+    ],
+    "languages": [
+      "English",
+      "Irish"
+    ]
+  },
+  "IL": {
+    "exonym": "Israel",
+    "name": "The State of Israel",
+    "capital": "Jerusalem",
+    "iso_3166_1_a3": "ISR",
+    "tld": ".il",
+    "flag": "🇮🇱",
+    "currency": {
+      "name": "New Israeli Sheqel",
+      "iso_4217": "ILS",
+      "symbol": "₪",
+      "fraction": "Agora",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "972",
+    "endonyms": [
+      "Israʼiyl",
+      "Yisra'el",
+      "ישראל",
+      "إسرائيل"
+    ],
+    "languages": [
+      "Arabic",
+      "Hebrew"
+    ]
+  },
+  "IM": {
+    "exonym": "Isle of Man",
+    "name": "The Isle of Man",
+    "capital": "Douglas, Isle of Man",
+    "iso_3166_1_a3": "IMN",
+    "tld": ".im",
+    "flag": "🇮🇲",
+    "currency": {
+      "name": "Pound Sterling",
+      "iso_4217": "GBP",
+      "symbol": "£",
+      "fraction": "Penny",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": "UTC+01:00"
+    },
+    "calling_code": "44 (1624, 7524, 7624, 7924)",
+    "endonyms": [
+      "Ellan Vannin"
+    ],
+    "languages": [
+      "English",
+      "Manx"
+    ]
+  },
+  "IN": {
+    "exonym": "India",
+    "name": "The Republic of India",
+    "capital": "New Delhi",
+    "iso_3166_1_a3": "IND",
+    "tld": ".in",
+    "flag": "🇮🇳",
+    "currency": {
+      "name": "Indian Rupee",
+      "iso_4217": "INR",
+      "symbol": "₹",
+      "fraction": "Paisa",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:30",
+      "dst": null
+    },
+    "calling_code": "91",
+    "endonyms": [
+      "Bhārat",
+      "Bhārata",
+      "Bhāratadēśam",
+      "Bhāratam",
+      "Bhārôt",
+      "Bāratam",
+      "भारत",
+      "भारतम्",
+      "ভারত",
+      "ভাৰত",
+      "ਭਾਰਤ",
+      "ભારત",
+      "ଭାରତ",
+      "பாரதம்",
+      "భారతదేశం",
+      "ಭಾರತ",
+      "ഭാരതം"
+    ],
+    "languages": [
+      "Assamese",
+      "Bengali",
+      "English",
+      "Gujarati",
+      "Hindi",
+      "Kannada",
+      "Konkani",
+      "Malayalam",
+      "Marathi",
+      "Nepali",
+      "Odia",
+      "Punjabi",
+      "Sanskrit",
+      "Tamil",
+      "Telugu"
+    ]
+  },
+  "IO": {
+    "exonym": "British Indian Ocean Territory",
+    "name": "The British Indian Ocean Territory",
+    "capital": null,
+    "iso_3166_1_a3": "IOT",
+    "tld": ".io",
+    "flag": "🇮🇴",
+    "currency": {
+      "name": "United States dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": null,
+    "languages": null
+  },
+  "IQ": {
+    "exonym": "Iraq",
+    "name": "The Republic of Iraq",
+    "capital": "Baghdad",
+    "iso_3166_1_a3": "IRQ",
+    "tld": ".iq",
+    "flag": "🇮🇶",
+    "currency": {
+      "name": "Iraqi Dinar",
+      "iso_4217": "IQD",
+      "symbol": "ID",
+      "fraction": "Fils",
+      "fractions_in_unit": 1000
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "964",
+    "endonyms": [
+      "Al-'Iraq",
+      "Êraq",
+      "العراق",
+      "عێراق"
+    ],
+    "languages": [
+      "Arabic",
+      "Kurdish"
+    ]
+  },
+  "IR": {
+    "exonym": "Iran, Islamic Republic of",
+    "name": "The Islamic Republic of Iran",
+    "capital": "Tehran",
+    "iso_3166_1_a3": "IRN",
+    "tld": ".ir",
+    "flag": "🇮🇷",
+    "currency": {
+      "name": "Iranian rial",
+      "iso_4217": "IRR",
+      "symbol": "Rl or Rls (pl.)",
+      "fraction": "Rial",
+      "fractions_in_unit": 1
+    },
+    "time": {
+      "zone": "UTC+03:30",
+      "dst": "UTC+04:30"
+    },
+    "calling_code": "98",
+    "endonyms": [
+      "Iran",
+      "Īrān",
+      "ایران"
+    ],
+    "languages": [
+      "Persian"
+    ]
+  },
+  "IS": {
+    "exonym": "Iceland",
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "iso_3166_1_a3": "ISL",
+    "tld": ".is",
+    "flag": "🇮🇸",
+    "currency": {
+      "name": "Iceland Krona",
+      "iso_4217": "ISK",
+      "symbol": "kr",
+      "fraction": "Eyrir",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "354",
+    "endonyms": [
+      "Ísland"
+    ],
+    "languages": [
+      "Icelandic"
+    ]
+  },
+  "IT": {
+    "exonym": "Italy",
+    "name": "The Italian Republic",
+    "capital": "Rome",
+    "iso_3166_1_a3": "ITA",
+    "tld": ".it",
+    "flag": "🇮🇹",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "39",
+    "endonyms": [
+      "Italia"
+    ],
+    "languages": [
+      "Italian"
+    ]
+  },
+  "JE": {
+    "exonym": "Jersey",
+    "name": "The Bailiwick of Jersey",
+    "capital": "St. Helier",
+    "iso_3166_1_a3": "JEY",
+    "tld": ".je",
+    "flag": "🇯🇪",
+    "currency": {
+      "name": "Pound Sterling",
+      "iso_4217": "GBP",
+      "symbol": "£",
+      "fraction": "Penny",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": "UTC+01:00"
+    },
+    "calling_code": "44 (1534)",
+    "endonyms": [
+      "Jèrri"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Jèrriais"
+    ]
+  },
+  "JM": {
+    "exonym": "Jamaica",
+    "name": "Jamaica",
+    "capital": "Kingston, Jamaica",
+    "iso_3166_1_a3": "JAM",
+    "tld": ".jm",
+    "flag": "🇯🇲",
+    "currency": {
+      "name": "Jamaican Dollar",
+      "iso_4217": "JMD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": null
+    },
+    "calling_code": "1 (658, 876)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "JO": {
+    "exonym": "Jordan",
+    "name": "The Hashemite Kingdom of Jordan",
+    "capital": "Amman",
+    "iso_3166_1_a3": "JOR",
+    "tld": ".jo",
+    "flag": "🇯🇴",
+    "currency": {
+      "name": "Jordanian Dinar",
+      "iso_4217": "JOD",
+      "symbol": "JD",
+      "fraction": "Piastre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "962",
+    "endonyms": [
+      "Al-’Urdun",
+      "الأردن"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "JP": {
+    "exonym": "Japan",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "iso_3166_1_a3": "JPN",
+    "tld": ".jp",
+    "flag": "🇯🇵",
+    "currency": {
+      "name": "Yen",
+      "iso_4217": "JPY",
+      "symbol": "¥",
+      "fraction": "Sen",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+09:00",
+      "dst": null
+    },
+    "calling_code": "81",
+    "endonyms": [
+      "Nihon",
+      "Nippon",
+      "日本"
+    ],
+    "languages": [
+      "Japanese"
+    ]
+  },
+  "KE": {
+    "exonym": "Kenya",
+    "name": "The Republic of Kenya",
+    "capital": "Nairobi",
+    "iso_3166_1_a3": "KEN",
+    "tld": ".ke",
+    "flag": "🇰🇪",
+    "currency": {
+      "name": "Kenyan Shilling",
+      "iso_4217": "KES",
+      "symbol": "Sh or Shs (pl.)",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "254",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Swahili"
+    ]
+  },
+  "KG": {
+    "exonym": "Kyrgyzstan",
+    "name": "The Kyrgyz Republic",
+    "capital": "Bishkek",
+    "iso_3166_1_a3": "KGZ",
+    "tld": ".kg",
+    "flag": "🇰🇬",
+    "currency": {
+      "name": "Som",
+      "iso_4217": "KGS",
+      "symbol": "som",
+      "fraction": "Tyiyn",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+06:00",
+      "dst": null
+    },
+    "calling_code": "996",
+    "endonyms": [
+      "Кыргызстан"
+    ],
+    "languages": [
+      "Kyrgyz",
+      "Russian"
+    ]
+  },
+  "KH": {
+    "exonym": "Cambodia",
+    "name": "The Kingdom of Cambodia",
+    "capital": "Phnom Penh",
+    "iso_3166_1_a3": "KHM",
+    "tld": ".kh",
+    "flag": "🇰🇭",
+    "currency": {
+      "name": "Riel",
+      "iso_4217": "KHR",
+      "symbol": "៛",
+      "fraction": "Sen",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+07:00",
+      "dst": null
+    },
+    "calling_code": "855",
+    "endonyms": [
+      "Kămpŭchéa",
+      "កម្ពុជា"
+    ],
+    "languages": [
+      "Khmer"
+    ]
+  },
+  "KI": {
+    "exonym": "Kiribati",
+    "name": "The Republic of Kiribati",
+    "capital": "Tarawa",
+    "iso_3166_1_a3": "KIR",
+    "tld": ".ki",
+    "flag": "🇰🇮",
+    "currency": {
+      "name": "Australian Dollar",
+      "iso_4217": "AUD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+12:00 to 14:00",
+      "dst": null
+    },
+    "calling_code": "686",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Gilbertese"
+    ]
+  },
+  "KM": {
+    "exonym": "Comoros",
+    "name": "The Union of the Comoros",
+    "capital": "Moroni, Comoros",
+    "iso_3166_1_a3": "COM",
+    "tld": ".km",
+    "flag": "🇰🇲",
+    "currency": {
+      "name": "Comorian franc",
+      "iso_4217": "KMF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "269",
+    "endonyms": [
+      "Comores",
+      "Juzur al-Qamar",
+      "Komori",
+      "جزر القمر"
+    ],
+    "languages": [
+      "Arabic",
+      "French",
+      "Shikomor"
+    ]
+  },
+  "KN": {
+    "exonym": "Saint Kitts and Nevis",
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "iso_3166_1_a3": "KNA",
+    "tld": ".kn",
+    "flag": "🇰🇳",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "iso_4217": "XCD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (869)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "KP": {
+    "exonym": "Korea, Democratic People's Republic of",
+    "name": "The Democratic People's Republic of Korea",
+    "capital": "Pyongyang",
+    "iso_3166_1_a3": "PRK",
+    "tld": ".kp",
+    "flag": "🇰🇵",
+    "currency": {
+      "name": "North Korean won",
+      "iso_4217": "KPW",
+      "symbol": "₩",
+      "fraction": "Chon",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "Bukchosŏn",
+      "Chosŏn",
+      "North Korea",
+      "朝鮮",
+      "북조선",
+      "조선"
+    ],
+    "languages": [
+      "Hangul",
+      "Hanja",
+      "Korean"
+    ]
+  },
+  "KR": {
+    "exonym": "Korea, Republic of",
+    "name": "The Republic of Korea",
+    "capital": "Seoul",
+    "iso_3166_1_a3": "KOR",
+    "tld": ".kr",
+    "flag": "🇰🇷",
+    "currency": {
+      "name": "South Korean won",
+      "iso_4217": "KRW",
+      "symbol": "₩",
+      "fraction": "Jeon",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "Hanguk",
+      "Namhan",
+      "South Korea",
+      "韓國",
+      "남한",
+      "한국"
+    ],
+    "languages": [
+      "Hangul",
+      "Hanja",
+      "Korean"
+    ]
+  },
+  "KW": {
+    "exonym": "Kuwait",
+    "name": "The State of Kuwait",
+    "capital": "Kuwait City",
+    "iso_3166_1_a3": "KWT",
+    "tld": ".kw",
+    "flag": "🇰🇼",
+    "currency": {
+      "name": "Kuwaiti Dinar",
+      "iso_4217": "KWD",
+      "symbol": "KD",
+      "fraction": "Fils",
+      "fractions_in_unit": 1000
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "965",
+    "endonyms": [
+      "Dawlat ul-Kuwayt",
+      "il-ikwet",
+      "الكويت",
+      "دولة الكويت"
+    ],
+    "languages": [
+      "Arabic",
+      "Kuwaiti Gulf Arabic"
+    ]
+  },
+  "KY": {
+    "exonym": "Cayman Islands",
+    "name": "The Cayman Islands",
+    "capital": "George Town, Cayman Islands",
+    "iso_3166_1_a3": "CYM",
+    "tld": ".ky",
+    "flag": "🇰🇾",
+    "currency": {
+      "name": "Cayman Islands dollar",
+      "iso_4217": "KYD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": null
+    },
+    "calling_code": "1 (345)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "KZ": {
+    "exonym": "Kazakhstan",
+    "name": "The Republic of Kazakhstan",
+    "capital": "Astana",
+    "iso_3166_1_a3": "KAZ",
+    "tld": ".kz",
+    "flag": "🇰🇿",
+    "currency": {
+      "name": "Tenge",
+      "iso_4217": "KZT",
+      "symbol": "₸",
+      "fraction": "Tıyn",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:00 to 06:00",
+      "dst": null
+    },
+    "calling_code": "7 (6, 7)",
+    "endonyms": [
+      "Kazakhstán",
+      "Qazaqstan",
+      "Казахстан",
+      "Қазақстан"
+    ],
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ]
+  },
+  "LA": {
+    "exonym": "Lao People's Democratic Republic",
+    "name": "The Lao People's Democratic Republic",
+    "capital": "Vientiane",
+    "iso_3166_1_a3": "LAO",
+    "tld": ".la",
+    "flag": "🇱🇦",
+    "currency": {
+      "name": "Pathet Lao Kip",
+      "iso_4217": "LAJ",
+      "symbol": "₭",
+      "fraction": "Att",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+07:00",
+      "dst": null
+    },
+    "calling_code": "856",
+    "endonyms": [
+      "Lao",
+      "Laos",
+      "ປະເທດລາວ"
+    ],
+    "languages": [
+      "Lao"
+    ]
+  },
+  "LB": {
+    "exonym": "Lebanon",
+    "name": "The Lebanese Republic",
+    "capital": "Beirut",
+    "iso_3166_1_a3": "LBN",
+    "tld": ".lb",
+    "flag": "🇱🇧",
+    "currency": {
+      "name": "Lebanese Pound",
+      "iso_4217": "LBP",
+      "symbol": "LL",
+      "fraction": "Piastre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "961",
+    "endonyms": [
+      "Liban",
+      "Lubnān",
+      "لبنان"
+    ],
+    "languages": [
+      "Arabic",
+      "French"
+    ]
+  },
+  "LC": {
+    "exonym": "Saint Lucia",
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "iso_3166_1_a3": "LCA",
+    "tld": ".lc",
+    "flag": "🇱🇨",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "iso_4217": "XCD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (758)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "LI": {
+    "exonym": "Liechtenstein",
+    "name": "The Principality of Liechtenstein",
+    "capital": "Vaduz",
+    "iso_3166_1_a3": "LIE",
+    "tld": ".li",
+    "flag": "🇱🇮",
+    "currency": {
+      "name": "Swiss Franc",
+      "iso_4217": "CHF",
+      "symbol": "Fr",
+      "fraction": "Rappen",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "423",
+    "endonyms": null,
+    "languages": [
+      "German"
+    ]
+  },
+  "LK": {
+    "exonym": "Sri Lanka",
+    "name": "The Democratic Socialist Republic of Sri Lanka",
+    "capital": "Sri Jayawardenapura Kotte",
+    "iso_3166_1_a3": "LKA",
+    "tld": ".lk",
+    "flag": "🇱🇰",
+    "currency": {
+      "name": "Sri Lanka Rupee",
+      "iso_4217": "LKR",
+      "symbol": "Re or Rs (pl.)",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:30",
+      "dst": null
+    },
+    "calling_code": "94",
+    "endonyms": [
+      "Sri Lankā",
+      "இலங்கை",
+      "ශ්‍රී ලංකාව"
+    ],
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ]
+  },
+  "LR": {
+    "exonym": "Liberia",
+    "name": "The Republic of Liberia",
+    "capital": "Monrovia",
+    "iso_3166_1_a3": "LBR",
+    "tld": ".lr",
+    "flag": "🇱🇷",
+    "currency": {
+      "name": "Liberian Dollar",
+      "iso_4217": "LRD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "231",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "LS": {
+    "exonym": "Lesotho",
+    "name": "The Kingdom of Lesotho",
+    "capital": "Maseru",
+    "iso_3166_1_a3": "LSO",
+    "tld": ".ls",
+    "flag": "🇱🇸",
+    "currency": {
+      "name": "Loti",
+      "iso_4217": "LSL",
+      "symbol": "L or M (pl.)",
+      "fraction": "Sente",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "266",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Sesotho"
+    ]
+  },
+  "LT": {
+    "exonym": "Lithuania",
+    "name": "The Republic of Lithuania",
+    "capital": "Vilnius",
+    "iso_3166_1_a3": "LTU",
+    "tld": ".lt",
+    "flag": "🇱🇹",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "370",
+    "endonyms": [
+      "Lietuva"
+    ],
+    "languages": [
+      "Lithuanian"
+    ]
+  },
+  "LU": {
+    "exonym": "Luxembourg",
+    "name": "The Grand Duchy of Luxembourg",
+    "capital": "Luxembourg (city)",
+    "iso_3166_1_a3": "LUX",
+    "tld": ".lu",
+    "flag": "🇱🇺",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "352",
+    "endonyms": [
+      "Luxemburg",
+      "Lëtzebuerg"
+    ],
+    "languages": [
+      "French",
+      "German",
+      "Luxembourgish"
+    ]
+  },
+  "LV": {
+    "exonym": "Latvia",
+    "name": "The Republic of Latvia",
+    "capital": "Riga",
+    "iso_3166_1_a3": "LVA",
+    "tld": ".lv",
+    "flag": "🇱🇻",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "371",
+    "endonyms": [
+      "Latvija"
+    ],
+    "languages": [
+      "Latvian"
+    ]
+  },
+  "LY": {
+    "exonym": "Libya",
+    "name": "The State of Libya",
+    "capital": "Tripoli, Libya",
+    "iso_3166_1_a3": "LBY",
+    "tld": ".ly",
+    "flag": "🇱🇾",
+    "currency": {
+      "name": "Libyan Dinar",
+      "iso_4217": "LYD",
+      "symbol": "LD",
+      "fraction": "Dirham",
+      "fractions_in_unit": 1000
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "218",
+    "endonyms": [
+      "Lībiyā",
+      "ليبيا",
+      "ⵍⵉⴱⵢⴰ"
+    ],
+    "languages": [
+      "Arabic",
+      "Berber language"
+    ]
+  },
+  "MA": {
+    "exonym": "Morocco",
+    "name": "The Kingdom of Morocco",
+    "capital": "Rabat",
+    "iso_3166_1_a3": "MAR",
+    "tld": ".ma",
+    "flag": "🇲🇦",
+    "currency": {
+      "name": "Moroccan Dirham",
+      "iso_4217": "MAD",
+      "symbol": "DH",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "212",
+    "endonyms": [
+      "Al-maɣréb",
+      "Amerruk / Elmeɣrib",
+      "المغرب",
+      "ⴰⵎⵔⵔⵓⴽ / ⵍⵎⵖⵔⵉⴱ"
+    ],
+    "languages": [
+      "Arabic",
+      "Berber language"
+    ]
+  },
+  "MC": {
+    "exonym": "Monaco",
+    "name": "The Principality of Monaco",
+    "capital": "Monaco",
+    "iso_3166_1_a3": "MCO",
+    "tld": ".mc",
+    "flag": "🇲🇨",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "377",
+    "endonyms": [
+      "Múnegu"
+    ],
+    "languages": [
+      "French",
+      "Monégasque"
+    ]
+  },
+  "MD": {
+    "exonym": "Moldova, Republic of",
+    "name": "The Republic of Moldova",
+    "capital": "Chişinău",
+    "iso_3166_1_a3": "MDA",
+    "tld": ".md",
+    "flag": "🇲🇩",
+    "currency": {
+      "name": "Russian Ruble",
+      "iso_4217": "RUR",
+      "symbol": "Leu or Lei (pl.)",
+      "fraction": "Ban",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "373",
+    "endonyms": [
+      "Moldova"
+    ],
+    "languages": [
+      "Romanian"
+    ]
+  },
+  "ME": {
+    "exonym": "Montenegro",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "iso_3166_1_a3": "MNE",
+    "tld": ".me",
+    "flag": "🇲🇪",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "382",
+    "endonyms": [
+      "Crna Gora",
+      "Црна Гора"
+    ],
+    "languages": [
+      "Montenegrin"
+    ]
+  },
+  "MF": {
+    "exonym": "Saint Martin (French part)",
+    "name": "The Collectivity of Saint-Martin",
+    "capital": "Marigot, Saint Martin",
+    "iso_3166_1_a3": "MAF",
+    "tld": ".mf",
+    "flag": "🇲🇫",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "Collectivity of Saint Martin",
+      "Saint-Martin"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "MG": {
+    "exonym": "Madagascar",
+    "name": "The Republic of Madagascar",
+    "capital": "Antananarivo",
+    "iso_3166_1_a3": "MDG",
+    "tld": ".mg",
+    "flag": "🇲🇬",
+    "currency": {
+      "name": "Malagasy Ariary",
+      "iso_4217": "MGA",
+      "symbol": "Ar",
+      "fraction": "Iraimbilanja",
+      "fractions_in_unit": 5
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "261",
+    "endonyms": [
+      "Madagasikara"
+    ],
+    "languages": [
+      "French",
+      "Malagasy"
+    ]
+  },
+  "MH": {
+    "exonym": "Marshall Islands",
+    "name": "The Republic of the Marshall Islands",
+    "capital": "Majuro",
+    "iso_3166_1_a3": "MHL",
+    "tld": ".mh",
+    "flag": "🇲🇭",
+    "currency": {
+      "name": "United States dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+12:00",
+      "dst": null
+    },
+    "calling_code": "692",
+    "endonyms": [
+      "Aorōkin Ṃajeḷ"
+    ],
+    "languages": [
+      "English",
+      "Marshallese"
+    ]
+  },
+  "MK": {
+    "exonym": "Macedonia, the Former Yugoslav Republic of",
+    "name": "The Republic of North Macedonia",
+    "capital": "Skopje",
+    "iso_3166_1_a3": "MKD",
+    "tld": ".mk",
+    "flag": "🇲🇰",
+    "currency": {
+      "name": "Denar",
+      "iso_4217": "MKD",
+      "symbol": "DEN",
+      "fraction": "Deni",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "389",
+    "endonyms": [
+      "Maqedonia e Veriut",
+      "North Macedonia",
+      "Severna Makedonija",
+      "Северна Македонија"
+    ],
+    "languages": [
+      "Albanian",
+      "Macedonian"
+    ]
+  },
+  "ML": {
+    "exonym": "Mali",
+    "name": "The Republic of Mali",
+    "capital": "Bamako",
+    "iso_3166_1_a3": "MLI",
+    "tld": ".ml",
+    "flag": "🇲🇱",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "iso_4217": "XOF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "223",
+    "endonyms": null,
+    "languages": [
+      "Bambara",
+      "French"
+    ]
+  },
+  "MM": {
+    "exonym": "Myanmar",
+    "name": "The Republic of the Union of Myanmar",
+    "capital": "Naypyidaw",
+    "iso_3166_1_a3": "MMR",
+    "tld": ".mm",
+    "flag": "🇲🇲",
+    "currency": {
+      "name": "Kyat",
+      "iso_4217": "MMK",
+      "symbol": "K or Ks (pl.)",
+      "fraction": "Pya",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+06:30",
+      "dst": null
+    },
+    "calling_code": "95",
+    "endonyms": [
+      "Myanma",
+      "မြန်မာ"
+    ],
+    "languages": [
+      "Burmese"
+    ]
+  },
+  "MN": {
+    "exonym": "Mongolia",
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "iso_3166_1_a3": "MNG",
+    "tld": ".mn",
+    "flag": "🇲🇳",
+    "currency": {
+      "name": "Tugrik",
+      "iso_4217": "MNT",
+      "symbol": "₮",
+      "fraction": "Möngö",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+07:00 to 08:00",
+      "dst": null
+    },
+    "calling_code": "976",
+    "endonyms": [
+      "Mongol Uls",
+      "Монгол Улс"
+    ],
+    "languages": [
+      "Mongolian"
+    ]
+  },
+  "MO": {
+    "exonym": "Macao",
+    "name": "The Macao Special Administrative Region of China",
+    "capital": "Macau",
+    "iso_3166_1_a3": "MAC",
+    "tld": ".mo",
+    "flag": "🇲🇴",
+    "currency": {
+      "name": "Pataca",
+      "iso_4217": "MOP",
+      "symbol": "MOP$",
+      "fraction": "Avo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+08:00",
+      "dst": null
+    },
+    "calling_code": "853",
+    "endonyms": [
+      "Macau",
+      "Oumún",
+      "澳門"
+    ],
+    "languages": [
+      "Cantonese",
+      "Portuguese"
+    ]
+  },
+  "MP": {
+    "exonym": "Northern Mariana Islands",
+    "name": "The Commonwealth of the Northern Mariana Islands",
+    "capital": "Saipan",
+    "iso_3166_1_a3": "MNP",
+    "tld": ".mp",
+    "flag": "🇲🇵",
+    "currency": null,
+    "time": {
+      "zone": "UTC+10:00",
+      "dst": null
+    },
+    "calling_code": "1 (670)",
+    "endonyms": [
+      "Notte Mariånas"
+    ],
+    "languages": [
+      "Chamorro",
+      "English"
+    ]
+  },
+  "MQ": {
+    "exonym": "Martinique",
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "iso_3166_1_a3": "MTQ",
+    "tld": ".mq",
+    "flag": "🇲🇶",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "596",
+    "endonyms": null,
+    "languages": [
+      "French"
+    ]
+  },
+  "MR": {
+    "exonym": "Mauritania",
+    "name": "The Islamic Republic of Mauritania",
+    "capital": "Nouakchott",
+    "iso_3166_1_a3": "MRT",
+    "tld": ".mr",
+    "flag": "🇲🇷",
+    "currency": {
+      "name": "Ouguiya",
+      "iso_4217": "MRU",
+      "symbol": "UM",
+      "fraction": "Khoums",
+      "fractions_in_unit": 5
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "222",
+    "endonyms": [
+      "Muritan / Agawec",
+      "Mūrītānyā",
+      "موريتانيا",
+      "ⵎⵓⵔⵉⵜⴰⵏ / ⴰⴳⴰⵡⵛ"
+    ],
+    "languages": [
+      "Arabic",
+      "Berber language"
+    ]
+  },
+  "MS": {
+    "exonym": "Montserrat",
+    "name": "Montserrat",
+    "capital": "Brades Estate",
+    "iso_3166_1_a3": "MSR",
+    "tld": ".ms",
+    "flag": "🇲🇸",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "iso_4217": "XCD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (664)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "MT": {
+    "exonym": "Malta",
+    "name": "The Republic of Malta",
+    "capital": "Valletta",
+    "iso_3166_1_a3": "MLT",
+    "tld": ".mt",
+    "flag": "🇲🇹",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "356",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Maltese"
+    ]
+  },
+  "MU": {
+    "exonym": "Mauritius",
+    "name": "The Republic of Mauritius",
+    "capital": "Port Louis",
+    "iso_3166_1_a3": "MUS",
+    "tld": ".mu",
+    "flag": "🇲🇺",
+    "currency": {
+      "name": "Mauritius Rupee",
+      "iso_4217": "MUR",
+      "symbol": "Re or Rs (pl.)",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+04:00",
+      "dst": null
+    },
+    "calling_code": "230",
+    "endonyms": [
+      "Maurice",
+      "Moris"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ]
+  },
+  "MV": {
+    "exonym": "Maldives",
+    "name": "The Republic of Maldives",
+    "capital": "Malé",
+    "iso_3166_1_a3": "MDV",
+    "tld": ".mv",
+    "flag": "🇲🇻",
+    "currency": {
+      "name": "Rufiyaa",
+      "iso_4217": "MVR",
+      "symbol": "Rf",
+      "fraction": "Laari",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:00",
+      "dst": null
+    },
+    "calling_code": "960",
+    "endonyms": [
+      "Dhivehi Raajje",
+      "ދިވެހިރާއްޖެ"
+    ],
+    "languages": [
+      "Dhivehi"
+    ]
+  },
+  "MW": {
+    "exonym": "Malawi",
+    "name": "The Republic of Malawi",
+    "capital": "Lilongwe",
+    "iso_3166_1_a3": "MWI",
+    "tld": ".mw",
+    "flag": "🇲🇼",
+    "currency": {
+      "name": "Malawi Kwacha",
+      "iso_4217": "MWK",
+      "symbol": "K",
+      "fraction": "Tambala",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "265",
+    "endonyms": [
+      "Malaŵi"
+    ],
+    "languages": [
+      "Chichewa",
+      "English"
+    ]
+  },
+  "MX": {
+    "exonym": "Mexico",
+    "name": "The United Mexican States",
+    "capital": "Mexico City",
+    "iso_3166_1_a3": "MEX",
+    "tld": ".mx",
+    "flag": "🇲🇽",
+    "currency": {
+      "name": "Mexican Peso",
+      "iso_4217": "MXN",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−08:00 to –05:00",
+      "dst": "UTC−07:00 to –05:00"
+    },
+    "calling_code": "52",
+    "endonyms": [
+      "México",
+      "Mēxihco"
+    ],
+    "languages": [
+      "Nahuatl",
+      "Spanish"
+    ]
+  },
+  "MY": {
+    "exonym": "Malaysia",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "iso_3166_1_a3": "MYS",
+    "tld": ".my",
+    "flag": "🇲🇾",
+    "currency": {
+      "name": "Malaysian Ringgit",
+      "iso_4217": "MYR",
+      "symbol": "RM",
+      "fraction": "Sen",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+08:00",
+      "dst": null
+    },
+    "calling_code": "60",
+    "endonyms": null,
+    "languages": [
+      "Malay"
+    ]
+  },
+  "MZ": {
+    "exonym": "Mozambique",
+    "name": "The Republic of Mozambique",
+    "capital": "Maputo",
+    "iso_3166_1_a3": "MOZ",
+    "tld": ".mz",
+    "flag": "🇲🇿",
+    "currency": {
+      "name": "Mozambique Metical",
+      "iso_4217": "MZN",
+      "symbol": "Mt",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "258",
+    "endonyms": [
+      "Moçambique"
+    ],
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  "NA": {
+    "exonym": "Namibia",
+    "name": "The Republic of Namibia",
+    "capital": "Windhoek",
+    "iso_3166_1_a3": "NAM",
+    "tld": ".na",
+    "flag": "🇳🇦",
+    "currency": {
+      "name": "Namibia Dollar",
+      "iso_4217": "NAD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "264",
+    "endonyms": [
+      "Namibië"
+    ],
+    "languages": [
+      "Afrikaans",
+      "Damara/Nama",
+      "English",
+      "German",
+      "Herero"
+    ]
+  },
+  "NC": {
+    "exonym": "New Caledonia",
+    "name": "New Caledonia",
+    "capital": "Nouméa",
+    "iso_3166_1_a3": "NCL",
+    "tld": ".nc",
+    "flag": "🇳🇨",
+    "currency": {
+      "name": "CFP Franc",
+      "iso_4217": "XPF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+11:00",
+      "dst": null
+    },
+    "calling_code": "687",
+    "endonyms": [
+      "Nouvelle-Calédonie"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "NE": {
+    "exonym": "Niger",
+    "name": "The Republic of the Niger",
+    "capital": "Niamey",
+    "iso_3166_1_a3": "NER",
+    "tld": ".ne",
+    "flag": "🇳🇪",
+    "currency": {
+      "name": "West African CFA franc",
+      "iso_4217": "XOF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "227",
+    "endonyms": null,
+    "languages": [
+      "French"
+    ]
+  },
+  "NF": {
+    "exonym": "Norfolk Island",
+    "name": "The Territory of Norfolk Island",
+    "capital": "Kingston, Norfolk Island",
+    "iso_3166_1_a3": "NFK",
+    "tld": ".nf",
+    "flag": "🇳🇫",
+    "currency": {
+      "name": "Australian Dollar",
+      "iso_4217": "AUD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+11:00",
+      "dst": null
+    },
+    "calling_code": "672 (3)",
+    "endonyms": [
+      "Norf'k Ailen"
+    ],
+    "languages": [
+      "English",
+      "Norfuk"
+    ]
+  },
+  "NG": {
+    "exonym": "Nigeria",
+    "name": "The Federal Republic of Nigeria",
+    "capital": "Abuja",
+    "iso_3166_1_a3": "NGA",
+    "tld": ".ng",
+    "flag": "🇳🇬",
+    "currency": {
+      "name": "Naira",
+      "iso_4217": "NGN",
+      "symbol": "₦",
+      "fraction": "Kobo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "234",
+    "endonyms": [
+      "Naìjíríyà",
+      "Nijeriya",
+      "Nàìjíríà"
+    ],
+    "languages": [
+      "English",
+      "Hausa",
+      "Igbo",
+      "Yoruba"
+    ]
+  },
+  "NI": {
+    "exonym": "Nicaragua",
+    "name": "The Republic of Nicaragua",
+    "capital": "Managua",
+    "iso_3166_1_a3": "NIC",
+    "tld": ".ni",
+    "flag": "🇳🇮",
+    "currency": {
+      "name": "Cordoba Oro",
+      "iso_4217": "NIO",
+      "symbol": "C$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−06:00",
+      "dst": null
+    },
+    "calling_code": "505",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "NL": {
+    "exonym": "Netherlands",
+    "name": "The Kingdom of the Netherlands",
+    "capital": "Amsterdam",
+    "iso_3166_1_a3": "NLD",
+    "tld": ".nl",
+    "flag": "🇳🇱",
+    "currency": {
+      "name": "Netherlands Guilder",
+      "iso_4217": "NLG",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "31",
+    "endonyms": [
+      "Nederland",
+      "Nederlân"
+    ],
+    "languages": [
+      "Dutch",
+      "West Frisian"
+    ]
+  },
+  "NO": {
+    "exonym": "Norway",
+    "name": "The Kingdom of Norway",
+    "capital": "Oslo",
+    "iso_3166_1_a3": "NOR",
+    "tld": ".no",
+    "flag": "🇳🇴",
+    "currency": {
+      "name": "Norwegian Krone",
+      "iso_4217": "NOK",
+      "symbol": "kr",
+      "fraction": "Øre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "47",
+    "endonyms": [
+      "Noreg",
+      "Norga",
+      "Norge",
+      "Nöörje",
+      "Vuodna"
+    ],
+    "languages": [
+      "Bokmål",
+      "Lule Sámi",
+      "Northern Sámi",
+      "Norwegian",
+      "Nynorsk",
+      "Southern Sámi"
+    ]
+  },
+  "NP": {
+    "exonym": "Nepal",
+    "name": "The Federal Democratic Republic of Nepal",
+    "capital": "Kathmandu",
+    "iso_3166_1_a3": "NPL",
+    "tld": ".np",
+    "flag": "🇳🇵",
+    "currency": {
+      "name": "Nepalese Rupee",
+      "iso_4217": "NPR",
+      "symbol": "Re or Rs (pl.)",
+      "fraction": "Paisa",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:45",
+      "dst": null
+    },
+    "calling_code": "977",
+    "endonyms": [
+      "Nepāl",
+      "नेपाल"
+    ],
+    "languages": [
+      "Nepali"
+    ]
+  },
+  "NR": {
+    "exonym": "Nauru",
+    "name": "The Republic of Nauru",
+    "capital": "Yaren District",
+    "iso_3166_1_a3": "NRU",
+    "tld": ".nr",
+    "flag": "🇳🇷",
+    "currency": {
+      "name": "Australian Dollar",
+      "iso_4217": "AUD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+12:00",
+      "dst": null
+    },
+    "calling_code": "674",
+    "endonyms": [
+      "Naoero"
+    ],
+    "languages": [
+      "English",
+      "Nauruan"
+    ]
+  },
+  "NU": {
+    "exonym": "Niue",
+    "name": "Niue",
+    "capital": "Alofi",
+    "iso_3166_1_a3": "NIU",
+    "tld": ".nu",
+    "flag": "🇳🇺",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "iso_4217": "NZD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−11:00",
+      "dst": null
+    },
+    "calling_code": "683",
+    "endonyms": [
+      "Niuē"
+    ],
+    "languages": [
+      "English",
+      "Niuean"
+    ]
+  },
+  "NZ": {
+    "exonym": "New Zealand",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "iso_3166_1_a3": "NZL",
+    "tld": ".nz",
+    "flag": "🇳🇿",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "iso_4217": "NZD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+12:00",
+      "dst": "UTC+13:00"
+    },
+    "calling_code": "64",
+    "endonyms": [
+      "Aotearoa"
+    ],
+    "languages": [
+      "English",
+      "Māori"
+    ]
+  },
+  "OM": {
+    "exonym": "Oman",
+    "name": "The Sultanate of Oman",
+    "capital": "Muscat, Oman",
+    "iso_3166_1_a3": "OMN",
+    "tld": ".om",
+    "flag": "🇴🇲",
+    "currency": {
+      "name": "Rial Omani",
+      "iso_4217": "OMR",
+      "symbol": "RO",
+      "fraction": "Baisa",
+      "fractions_in_unit": 1000
+    },
+    "time": {
+      "zone": "UTC+04:00",
+      "dst": null
+    },
+    "calling_code": "968",
+    "endonyms": [
+      "عُمان",
+      "‘Umān"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "PA": {
+    "exonym": "Panama",
+    "name": "The Republic of Panamá",
+    "capital": "Panama City",
+    "iso_3166_1_a3": "PAN",
+    "tld": ".pa",
+    "flag": "🇵🇦",
+    "currency": {
+      "name": "Balboa",
+      "iso_4217": "PAB",
+      "symbol": "B/",
+      "fraction": "Centésimo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": null
+    },
+    "calling_code": "507",
+    "endonyms": [
+      "Panamá"
+    ],
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "PE": {
+    "exonym": "Peru",
+    "name": "The Republic of Perú",
+    "capital": "Lima",
+    "iso_3166_1_a3": "PER",
+    "tld": ".pe",
+    "flag": "🇵🇪",
+    "currency": {
+      "name": "Sol",
+      "iso_4217": "PEN",
+      "symbol": "S/",
+      "fraction": "Céntimo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": null
+    },
+    "calling_code": "51",
+    "endonyms": [
+      "Perú",
+      "Piruw"
+    ],
+    "languages": [
+      "Aymara",
+      "Quechua",
+      "Spanish"
+    ]
+  },
+  "PF": {
+    "exonym": "French Polynesia",
+    "name": "French Polynesia",
+    "capital": "Papeete",
+    "iso_3166_1_a3": "PYF",
+    "tld": ".pf",
+    "flag": "🇵🇫",
+    "currency": {
+      "name": "CFP Franc",
+      "iso_4217": "XPF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−10:00 to –09:00",
+      "dst": null
+    },
+    "calling_code": "689",
+    "endonyms": [
+      "Polynésie française"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "PG": {
+    "exonym": "Papua New Guinea",
+    "name": "The Independent State of Papua New Guinea",
+    "capital": "Port Moresby",
+    "iso_3166_1_a3": "PNG",
+    "tld": ".pg",
+    "flag": "🇵🇬",
+    "currency": {
+      "name": "Kina",
+      "iso_4217": "PGK",
+      "symbol": "K",
+      "fraction": "Toea",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+10:00 to 11:00",
+      "dst": null
+    },
+    "calling_code": "675",
+    "endonyms": [
+      "Papua Niu Gini",
+      "Papua Niugini"
+    ],
+    "languages": [
+      "English",
+      "Hiri Motu",
+      "Tok Pisin"
+    ]
+  },
+  "PH": {
+    "exonym": "Philippines",
+    "name": "The Republic of the Philippines",
+    "capital": "Manila",
+    "iso_3166_1_a3": "PHL",
+    "tld": ".ph",
+    "flag": "🇵🇭",
+    "currency": {
+      "name": "Philippine peso",
+      "iso_4217": "PHP",
+      "symbol": "₱",
+      "fraction": "Sentimo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+08:00",
+      "dst": null
+    },
+    "calling_code": "63",
+    "endonyms": [
+      "Pilipinas"
+    ],
+    "languages": [
+      "English",
+      "Filipino"
+    ]
+  },
+  "PK": {
+    "exonym": "Pakistan",
+    "name": "The Islamic Republic of Pakistan",
+    "capital": "Islamabad",
+    "iso_3166_1_a3": "PAK",
+    "tld": ".pk",
+    "flag": "🇵🇰",
+    "currency": {
+      "name": "Pakistan Rupee",
+      "iso_4217": "PKR",
+      "symbol": "Re or Rs (pl.)",
+      "fraction": "Paisa",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:00",
+      "dst": null
+    },
+    "calling_code": "92",
+    "endonyms": [
+      "Pākistān",
+      "پاکستان"
+    ],
+    "languages": [
+      "Arabic script [Nastaʿlīq hand]",
+      "English",
+      "Urdu"
+    ]
+  },
+  "PL": {
+    "exonym": "Poland",
+    "name": "The Republic of Poland",
+    "capital": "Warsaw",
+    "iso_3166_1_a3": "POL",
+    "tld": ".pl",
+    "flag": "🇵🇱",
+    "currency": {
+      "name": "Zloty",
+      "iso_4217": "PLN",
+      "symbol": "zł",
+      "fraction": "Grosz",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "48",
+    "endonyms": [
+      "Polska"
+    ],
+    "languages": [
+      "Polish"
+    ]
+  },
+  "PM": {
+    "exonym": "Saint Pierre and Miquelon",
+    "name": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+    "capital": "Saint-Pierre, Saint-Pierre and Miquelon",
+    "iso_3166_1_a3": "SPM",
+    "tld": ".pm",
+    "flag": "🇵🇲",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−03:00",
+      "dst": "UTC−02:00"
+    },
+    "calling_code": "508",
+    "endonyms": [
+      "Saint-Pierre et Miquelon"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "PN": {
+    "exonym": "Pitcairn",
+    "name": "The Pitcairn, Henderson, Ducie and Oeno Islands",
+    "capital": "Adamstown, Pitcairn Island",
+    "iso_3166_1_a3": "PCN",
+    "tld": ".pn",
+    "flag": "🇵🇳",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "iso_4217": "NZD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−08:00",
+      "dst": null
+    },
+    "calling_code": "64",
+    "endonyms": [
+      "Pitcairn Islands",
+      "Pitkern Ailen"
+    ],
+    "languages": [
+      "English",
+      "Pitcairnese"
+    ]
+  },
+  "PR": {
+    "exonym": "Puerto Rico",
+    "name": "The Commonwealth of Puerto Rico",
+    "capital": "San Juan, Puerto Rico",
+    "iso_3166_1_a3": "PRI",
+    "tld": ".pr",
+    "flag": "🇵🇷",
+    "currency": {
+      "name": "US Dollar",
+      "iso_4217": "USD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (787, 930)",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "PS": {
+    "exonym": "Palestine, State of",
+    "name": "The State of Palestine",
+    "capital": "East Jerusalem",
+    "iso_3166_1_a3": "PSE",
+    "tld": ".ps",
+    "flag": "🇵🇸",
+    "currency": {
+      "name": "Israeli new shekel",
+      "iso_4217": "ILS",
+      "symbol": "₪",
+      "fraction": "Agora",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "Filasṭīn",
+      "State of Palestine",
+      "فلسطين"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "PT": {
+    "exonym": "Portugal",
+    "name": "The Portuguese Republic",
+    "capital": "Lisbon",
+    "iso_3166_1_a3": "PRT",
+    "tld": ".pt",
+    "flag": "🇵🇹",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": "UTC+01:00"
+    },
+    "calling_code": "351",
+    "endonyms": null,
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  "PW": {
+    "exonym": "Palau",
+    "name": "The Republic of Palau",
+    "capital": "Ngerulmud",
+    "iso_3166_1_a3": "PLW",
+    "tld": ".pw",
+    "flag": "🇵🇼",
+    "currency": {
+      "name": "US Dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+09:00",
+      "dst": null
+    },
+    "calling_code": "680",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Palauan"
+    ]
+  },
+  "PY": {
+    "exonym": "Paraguay",
+    "name": "The Republic of Paraguay",
+    "capital": "Asunción",
+    "iso_3166_1_a3": "PRY",
+    "tld": ".py",
+    "flag": "🇵🇾",
+    "currency": {
+      "name": "Guarani",
+      "iso_4217": "PYG",
+      "symbol": "₲",
+      "fraction": "Céntimo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": "UTC−03:00"
+    },
+    "calling_code": "595",
+    "endonyms": [
+      "Paraguái"
+    ],
+    "languages": [
+      "Guaraní",
+      "Spanish"
+    ]
+  },
+  "QA": {
+    "exonym": "Qatar",
+    "name": "The State of Qatar",
+    "capital": "Doha",
+    "iso_3166_1_a3": "QAT",
+    "tld": ".qa",
+    "flag": "🇶🇦",
+    "currency": {
+      "name": "Qatari Rial",
+      "iso_4217": "QAR",
+      "symbol": "QR",
+      "fraction": "Dirham",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "974",
+    "endonyms": [
+      "Qaṭar",
+      "قطر"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "RE": {
+    "exonym": "Réunion",
+    "name": "Réunion",
+    "capital": "Saint-Denis, Réunion",
+    "iso_3166_1_a3": "REU",
+    "tld": ".re",
+    "flag": "🇷🇪",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+04:00",
+      "dst": null
+    },
+    "calling_code": "262",
+    "endonyms": [
+      "La Réunion"
+    ],
+    "languages": [
+      "French"
+    ]
+  },
+  "RO": {
+    "exonym": "Romania",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "iso_3166_1_a3": "ROU",
+    "tld": ".ro",
+    "flag": "🇷🇴",
+    "currency": {
+      "name": "Romanian Leu",
+      "iso_4217": "RON",
+      "symbol": "Leu or Lei (pl.)",
+      "fraction": "Ban",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "40",
+    "endonyms": [
+      "România"
+    ],
+    "languages": [
+      "Romanian"
+    ]
+  },
+  "RS": {
+    "exonym": "Serbia",
+    "name": "The Republic of Serbia",
+    "capital": "Belgrade",
+    "iso_3166_1_a3": "SRB",
+    "tld": ".rs",
+    "flag": "🇷🇸",
+    "currency": {
+      "name": "Serbian Dinar",
+      "iso_4217": "RSD",
+      "symbol": "DIN",
+      "fraction": "Para",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "381",
+    "endonyms": [
+      "Srbija",
+      "Србија"
+    ],
+    "languages": [
+      "Serbian"
+    ]
+  },
+  "RU": {
+    "exonym": "Russian Federation",
+    "name": "The Russian Federation",
+    "capital": "Moscow",
+    "iso_3166_1_a3": "RUS",
+    "tld": ".ru",
+    "flag": "🇷🇺",
+    "currency": {
+      "name": "Russian Ruble",
+      "iso_4217": "RUR",
+      "symbol": "₽",
+      "fraction": "Kopeck",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00 to 12:00",
+      "dst": null
+    },
+    "calling_code": "7",
+    "endonyms": [
+      "Rossiya",
+      "Rossiâ",
+      "Russia",
+      "Россия"
+    ],
+    "languages": [
+      "Russian"
+    ]
+  },
+  "RW": {
+    "exonym": "Rwanda",
+    "name": "The Republic of Rwanda",
+    "capital": "Kigali",
+    "iso_3166_1_a3": "RWA",
+    "tld": ".rw",
+    "flag": "🇷🇼",
+    "currency": {
+      "name": "Rwanda Franc",
+      "iso_4217": "RWF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "250",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "French",
+      "Kinyarwanda",
+      "Swahili"
+    ]
+  },
+  "SA": {
+    "exonym": "Saudi Arabia",
+    "name": "The Kingdom of Saudi Arabia",
+    "capital": "Riyadh",
+    "iso_3166_1_a3": "SAU",
+    "tld": ".sa",
+    "flag": "🇸🇦",
+    "currency": {
+      "name": "Saudi Riyal",
+      "iso_4217": "SAR",
+      "symbol": "Rl or Rls (pl.)",
+      "fraction": "Halala",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "966",
+    "endonyms": [
+      "Al-Mamlaka Al-‘Arabiyyah as Sa‘ūdiyyah",
+      "المملكة العربية السعودية"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "SB": {
+    "exonym": "Solomon Islands",
+    "name": "The Solomon Islands",
+    "capital": "Honiara",
+    "iso_3166_1_a3": "SLB",
+    "tld": ".sb",
+    "flag": "🇸🇧",
+    "currency": {
+      "name": "Solomon Islands Dollar",
+      "iso_4217": "SBD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+11:00",
+      "dst": null
+    },
+    "calling_code": "677",
+    "endonyms": [
+      "Solomon Aelan"
+    ],
+    "languages": [
+      "English",
+      "Neo-Solomonic"
+    ]
+  },
+  "SC": {
+    "exonym": "Seychelles",
+    "name": "The Republic of Seychelles",
+    "capital": "Victoria, Seychelles",
+    "iso_3166_1_a3": "SYC",
+    "tld": ".sc",
+    "flag": "🇸🇨",
+    "currency": {
+      "name": "Seychelles Rupee",
+      "iso_4217": "SCR",
+      "symbol": "Re or Rs (pl.)",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+04:00",
+      "dst": null
+    },
+    "calling_code": "248",
+    "endonyms": [
+      "Sesel"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Seychellois Creole"
+    ]
+  },
+  "SD": {
+    "exonym": "Sudan",
+    "name": "The Republic of the Sudan",
+    "capital": "Khartoum",
+    "iso_3166_1_a3": "SDN",
+    "tld": ".sd",
+    "flag": "🇸🇩",
+    "currency": {
+      "name": "Sudanese Dinar",
+      "iso_4217": "SDD",
+      "symbol": "LS",
+      "fraction": "Piastre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "249",
+    "endonyms": [
+      "As-Sudan",
+      "السودان"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "SE": {
+    "exonym": "Sweden",
+    "name": "The Kingdom of Sweden",
+    "capital": "Stockholm",
+    "iso_3166_1_a3": "SWE",
+    "tld": ".se",
+    "flag": "🇸🇪",
+    "currency": {
+      "name": "Swedish Krona",
+      "iso_4217": "SEK",
+      "symbol": "kr",
+      "fraction": "Öre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "46",
+    "endonyms": [
+      "Sverige"
+    ],
+    "languages": [
+      "Swedish"
+    ]
+  },
+  "SG": {
+    "exonym": "Singapore",
+    "name": "The Republic of Singapore",
+    "capital": "Singapore",
+    "iso_3166_1_a3": "SGP",
+    "tld": ".sg",
+    "flag": "🇸🇬",
+    "currency": {
+      "name": "Singapore Dollar",
+      "iso_4217": "SGD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 10
+    },
+    "time": {
+      "zone": "UTC+08:00",
+      "dst": null
+    },
+    "calling_code": "65",
+    "endonyms": [
+      "Singapur",
+      "Singapura",
+      "Xīnjiāpō",
+      "சிங்கப்பூர்",
+      "新加坡"
+    ],
+    "languages": [
+      "English",
+      "Malay",
+      "Mandarin Chinese",
+      "Tamil"
+    ]
+  },
+  "SH": {
+    "exonym": "Saint Helena, Ascension and Tristan da Cunha",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown, Saint Helena",
+    "iso_3166_1_a3": "SHN",
+    "tld": ".sh",
+    "flag": "🇸🇭",
+    "currency": {
+      "name": "Saint Helena Pound",
+      "iso_4217": "SHP",
+      "symbol": "£",
+      "fraction": "Penny",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "290",
+    "endonyms": [
+      "Saint Helena"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "SI": {
+    "exonym": "Slovenia",
+    "name": "The Republic of Slovenia",
+    "capital": "Ljubljana",
+    "iso_3166_1_a3": "SVN",
+    "tld": ".si",
+    "flag": "🇸🇮",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "386",
+    "endonyms": [
+      "Slovenija"
+    ],
+    "languages": [
+      "Slovene"
+    ]
+  },
+  "SJ": {
+    "exonym": "Svalbard and Jan Mayen",
+    "name": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "iso_3166_1_a3": "SJM",
+    "tld": null,
+    "flag": "🇸🇯",
+    "currency": {
+      "name": "Norwegian Krone",
+      "iso_4217": "NOK",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "47 (79)",
+    "endonyms": [
+      "Svalbard"
+    ],
+    "languages": [
+      "Norwegian"
+    ]
+  },
+  "SK": {
+    "exonym": "Slovakia",
+    "name": "The Slovak Republic",
+    "capital": "Bratislava",
+    "iso_3166_1_a3": "SVK",
+    "tld": ".sk",
+    "flag": "🇸🇰",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "421",
+    "endonyms": [
+      "Slovensko"
+    ],
+    "languages": [
+      "Slovak"
+    ]
+  },
+  "SL": {
+    "exonym": "Sierra Leone",
+    "name": "The Republic of Sierra Leone",
+    "capital": "Freetown",
+    "iso_3166_1_a3": "SLE",
+    "tld": ".sl",
+    "flag": "🇸🇱",
+    "currency": {
+      "name": "Leone",
+      "iso_4217": "SLL",
+      "symbol": "Le",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "232",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "SM": {
+    "exonym": "San Marino",
+    "name": "The Republic of San Marino",
+    "capital": "San Marino, San Marino",
+    "iso_3166_1_a3": "SMR",
+    "tld": ".sm",
+    "flag": "🇸🇲",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": "UTC+02:00"
+    },
+    "calling_code": "378",
+    "endonyms": null,
+    "languages": [
+      "Italian"
+    ]
+  },
+  "SN": {
+    "exonym": "Senegal",
+    "name": "The Republic of Senegal",
+    "capital": "Dakar",
+    "iso_3166_1_a3": "SEN",
+    "tld": ".sn",
+    "flag": "🇸🇳",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "iso_4217": "XOF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "221",
+    "endonyms": [
+      "Senegaal",
+      "Sénégal"
+    ],
+    "languages": [
+      "French",
+      "Wolof"
+    ]
+  },
+  "SO": {
+    "exonym": "Somalia",
+    "name": "The Federal Republic of Somalia",
+    "capital": "Mogadishu",
+    "iso_3166_1_a3": "SOM",
+    "tld": ".so",
+    "flag": "🇸🇴",
+    "currency": {
+      "name": "Somali Shilling",
+      "iso_4217": "SOS",
+      "symbol": "Sh or Shs (pl.)",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "252",
+    "endonyms": [
+      "Soomaaliya",
+      "aş-Şūmāl",
+      "الصومال"
+    ],
+    "languages": [
+      "Arabic",
+      "Somali"
+    ]
+  },
+  "SR": {
+    "exonym": "Suriname",
+    "name": "The Republic of Suriname",
+    "capital": "Paramaribo",
+    "iso_3166_1_a3": "SUR",
+    "tld": ".sr",
+    "flag": "🇸🇷",
+    "currency": {
+      "name": "Surinam Dollar",
+      "iso_4217": "SRD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−03:00",
+      "dst": null
+    },
+    "calling_code": "597",
+    "endonyms": null,
+    "languages": [
+      "Dutch"
+    ]
+  },
+  "SS": {
+    "exonym": "South Sudan",
+    "name": "The Republic of South Sudan",
+    "capital": "Juba",
+    "iso_3166_1_a3": "SSD",
+    "tld": ".ss",
+    "flag": "🇸🇸",
+    "currency": {
+      "name": "South Sudanese Pound",
+      "iso_4217": "SSP",
+      "symbol": "(",
+      "fraction": "Piaster",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "211",
+    "endonyms": [
+      "Paguot Thudän",
+      "Sudan Kusini"
+    ],
+    "languages": [
+      "Dinka",
+      "English",
+      "Swahili"
+    ]
+  },
+  "ST": {
+    "exonym": "Sao Tome and Principe",
+    "name": "The Democratic Republic of São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "iso_3166_1_a3": "STP",
+    "tld": ".st",
+    "flag": "🇸🇹",
+    "currency": {
+      "name": "Dobra",
+      "iso_4217": "STN",
+      "symbol": "Db",
+      "fraction": "Cêntimo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "239",
+    "endonyms": [
+      "São Tomé and Príncipe",
+      "São Tomé e Príncipe"
+    ],
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  "SV": {
+    "exonym": "El Salvador",
+    "name": "The Republic of El Salvador",
+    "capital": "San Salvador",
+    "iso_3166_1_a3": "SLV",
+    "tld": ".sv",
+    "flag": "🇸🇻",
+    "currency": {
+      "name": "El Salvador Colon",
+      "iso_4217": "SVC",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−06:00",
+      "dst": null
+    },
+    "calling_code": "503",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "SX": {
+    "exonym": "Sint Maarten (Dutch part)",
+    "name": "Sint Maarten",
+    "capital": "Philipsburg, Sint Maarten",
+    "iso_3166_1_a3": "SXM",
+    "tld": ".sx",
+    "flag": "🇸🇽",
+    "currency": {
+      "name": "Netherlands Antillean Guilder",
+      "iso_4217": "ANG",
+      "symbol": "ƒ",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "Sint Maarten"
+    ],
+    "languages": [
+      "Dutch",
+      "English"
+    ]
+  },
+  "SY": {
+    "exonym": "Syrian Arab Republic",
+    "name": "The Syrian Arab Republic",
+    "capital": "Damascus",
+    "iso_3166_1_a3": "SYR",
+    "tld": ".sy",
+    "flag": "🇸🇾",
+    "currency": {
+      "name": "Syrian Pound",
+      "iso_4217": "SYP",
+      "symbol": "LS",
+      "fraction": "Piastre",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "963",
+    "endonyms": [
+      "Suriyah",
+      "Syria",
+      "سورية"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "SZ": {
+    "exonym": "Swaziland",
+    "name": "The Kingdom of Eswatini",
+    "capital": "Mbabane",
+    "iso_3166_1_a3": "SWZ",
+    "tld": ".sz",
+    "flag": "🇸🇿",
+    "currency": {
+      "name": "Lilangeni",
+      "iso_4217": "SZL",
+      "symbol": "L or E (pl.)",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "268",
+    "endonyms": [
+      "Eswatini",
+      "eSwatini"
+    ],
+    "languages": [
+      "English",
+      "Swazi"
+    ]
+  },
+  "TC": {
+    "exonym": "Turks and Caicos Islands",
+    "name": "The Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "iso_3166_1_a3": "TCA",
+    "tld": ".tc",
+    "flag": "🇹🇨",
+    "currency": {
+      "name": "United States dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−05:00",
+      "dst": "UTC−04:00"
+    },
+    "calling_code": "1 (649)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "TD": {
+    "exonym": "Chad",
+    "name": "The Republic of Chad",
+    "capital": "N'Djamena",
+    "iso_3166_1_a3": "TCD",
+    "tld": ".td",
+    "flag": "🇹🇩",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "iso_4217": "XAF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "235",
+    "endonyms": [
+      "Tchad",
+      "Tšād",
+      "تشاد"
+    ],
+    "languages": [
+      "Arabic",
+      "French"
+    ]
+  },
+  "TF": {
+    "exonym": "French Southern Territories",
+    "name": "The French Southern and Antarctic Lands",
+    "capital": null,
+    "iso_3166_1_a3": "ATF",
+    "tld": ".tf",
+    "flag": "🇹🇫",
+    "currency": {
+      "name": "French Franc",
+      "iso_4217": "FRF",
+      "symbol": "€",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "French Southern and Antarctic Lands"
+    ],
+    "languages": null
+  },
+  "TG": {
+    "exonym": "Togo",
+    "name": "The Togolese Republic",
+    "capital": "Lomé",
+    "iso_3166_1_a3": "TGO",
+    "tld": ".tg",
+    "flag": "🇹🇬",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "iso_4217": "XOF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+00:00",
+      "dst": null
+    },
+    "calling_code": "228",
+    "endonyms": null,
+    "languages": [
+      "Ewe",
+      "French",
+      "Kabiye"
+    ]
+  },
+  "TH": {
+    "exonym": "Thailand",
+    "name": "The Kingdom of Thailand",
+    "capital": "Bangkok",
+    "iso_3166_1_a3": "THA",
+    "tld": ".th",
+    "flag": "🇹🇭",
+    "currency": {
+      "name": "Baht",
+      "iso_4217": "THB",
+      "symbol": "฿",
+      "fraction": "Satang",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+07:00",
+      "dst": null
+    },
+    "calling_code": "66",
+    "endonyms": [
+      "Thai, Prathet Thai, Ratcha-anachak Thai",
+      "ไทย, ประเทศไทย, ราชอาณาจักรไทย"
+    ],
+    "languages": [
+      "Thai"
+    ]
+  },
+  "TJ": {
+    "exonym": "Tajikistan",
+    "name": "The Republic of Tajikistan",
+    "capital": "Dushanbe",
+    "iso_3166_1_a3": "TJK",
+    "tld": ".tj",
+    "flag": "🇹🇯",
+    "currency": {
+      "name": "Somoni",
+      "iso_4217": "TJS",
+      "symbol": "SM",
+      "fraction": "Diram",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:00",
+      "dst": null
+    },
+    "calling_code": "992",
+    "endonyms": [
+      "Tojikistan",
+      "Тоҷикистон"
+    ],
+    "languages": [
+      "Cyrillic",
+      "Tajiki-Persian"
+    ]
+  },
+  "TK": {
+    "exonym": "Tokelau",
+    "name": "Tokelau",
+    "capital": null,
+    "iso_3166_1_a3": "TKL",
+    "tld": ".tk",
+    "flag": "🇹🇰",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "iso_4217": "NZD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+13:00",
+      "dst": null
+    },
+    "calling_code": "690",
+    "endonyms": null,
+    "languages": null
+  },
+  "TL": {
+    "exonym": "Timor-Leste",
+    "name": "The Democratic Republic of Timor-Leste",
+    "capital": "Díli",
+    "iso_3166_1_a3": "TLS",
+    "tld": ".tl",
+    "flag": "🇹🇱",
+    "currency": {
+      "name": "US Dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Centavo",
+      "fractions_in_unit": 100
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "East Timor",
+      "Timor Lorosa'e"
+    ],
+    "languages": [
+      "Portuguese",
+      "Tetum"
+    ]
+  },
+  "TM": {
+    "exonym": "Turkmenistan",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "iso_3166_1_a3": "TKM",
+    "tld": ".tm",
+    "flag": "🇹🇲",
+    "currency": {
+      "name": "Turkmenistan New Manat",
+      "iso_4217": "TMT",
+      "symbol": "m",
+      "fraction": "Tenge",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:00",
+      "dst": null
+    },
+    "calling_code": "993",
+    "endonyms": [
+      "Türkmenistan"
+    ],
+    "languages": [
+      "Turkmen"
+    ]
+  },
+  "TN": {
+    "exonym": "Tunisia",
+    "name": "The Republic of Tunisia",
+    "capital": "Tunis",
+    "iso_3166_1_a3": "TUN",
+    "tld": ".tn",
+    "flag": "🇹🇳",
+    "currency": {
+      "name": "Tunisian Dinar",
+      "iso_4217": "TND",
+      "symbol": "DT",
+      "fraction": "Millime",
+      "fractions_in_unit": 1000
+    },
+    "time": {
+      "zone": "UTC+01:00",
+      "dst": null
+    },
+    "calling_code": "216",
+    "endonyms": [
+      "Tunes",
+      "Tūns",
+      "تونس",
+      "ⵜⵓⵏⵙ"
+    ],
+    "languages": [
+      "Arabic",
+      "Berber language"
+    ]
+  },
+  "TO": {
+    "exonym": "Tonga",
+    "name": "The Kingdom of Tonga",
+    "capital": "Nukuʻalofa",
+    "iso_3166_1_a3": "TON",
+    "tld": ".to",
+    "flag": "🇹🇴",
+    "currency": {
+      "name": "Pa'anga",
+      "iso_4217": "TOP",
+      "symbol": "T$",
+      "fraction": "Seniti",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+13:00",
+      "dst": null
+    },
+    "calling_code": "676",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Tongan"
+    ]
+  },
+  "TR": {
+    "exonym": "Turkey",
+    "name": "The Republic of Türkiye",
+    "capital": "Ankara",
+    "iso_3166_1_a3": "TUR",
+    "tld": ".tr",
+    "flag": "🇹🇷",
+    "currency": {
+      "name": "Turkish Lira",
+      "iso_4217": "TRY",
+      "symbol": "₺",
+      "fraction": "Kuruş",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "90",
+    "endonyms": [
+      "Türkiye"
+    ],
+    "languages": [
+      "Turkish"
+    ]
+  },
+  "TT": {
+    "exonym": "Trinidad and Tobago",
+    "name": "The Republic of Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "iso_3166_1_a3": "TTO",
+    "tld": ".tt",
+    "flag": "🇹🇹",
+    "currency": {
+      "name": "Trinidad and Tobago Dollar",
+      "iso_4217": "TTD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (868)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "TV": {
+    "exonym": "Tuvalu",
+    "name": "Tuvalu",
+    "capital": "Fongafale",
+    "iso_3166_1_a3": "TUV",
+    "tld": ".tv",
+    "flag": "🇹🇻",
+    "currency": {
+      "name": "Australian Dollar",
+      "iso_4217": "AUD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+12:00",
+      "dst": null
+    },
+    "calling_code": "688",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Tuvaluan"
+    ]
+  },
+  "TW": {
+    "exonym": "Taiwan, Province of China",
+    "name": "The Republic of China",
+    "capital": "Taipei",
+    "iso_3166_1_a3": "TWN",
+    "tld": ".tw",
+    "flag": "🇹🇼",
+    "currency": {
+      "name": "New Taiwan dollar",
+      "iso_4217": "TWD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+08:00",
+      "dst": null
+    },
+    "calling_code": "886",
+    "endonyms": [
+      "Taiwan",
+      "Táiwān",
+      "Zhōnghuá Mínguó",
+      "中華民國",
+      "臺灣/台灣"
+    ],
+    "languages": [
+      "Chinese"
+    ]
+  },
+  "TZ": {
+    "exonym": "Tanzania, United Republic of",
+    "name": "The United Republic of Tanzania",
+    "capital": "Dodoma",
+    "iso_3166_1_a3": "TZA",
+    "tld": ".tz",
+    "flag": "🇹🇿",
+    "currency": {
+      "name": "Tanzanian Shilling",
+      "iso_4217": "TZS",
+      "symbol": "Sh or Shs (pl.)",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "255",
+    "endonyms": [
+      "Tanzania"
+    ],
+    "languages": [
+      "English",
+      "Swahili"
+    ]
+  },
+  "UA": {
+    "exonym": "Ukraine",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "iso_3166_1_a3": "UKR",
+    "tld": ".ua",
+    "flag": "🇺🇦",
+    "currency": {
+      "name": "Hryvnia",
+      "iso_4217": "UAH",
+      "symbol": "₴",
+      "fraction": "Kopeck",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": "UTC+03:00"
+    },
+    "calling_code": "380",
+    "endonyms": [
+      "Ukrajina",
+      "Україна"
+    ],
+    "languages": [
+      "Ukrainian"
+    ]
+  },
+  "UG": {
+    "exonym": "Uganda",
+    "name": "The Republic of Uganda",
+    "capital": "Kampala",
+    "iso_3166_1_a3": "UGA",
+    "tld": ".ug",
+    "flag": "🇺🇬",
+    "currency": {
+      "name": "Uganda Shilling",
+      "iso_4217": "UGX",
+      "symbol": "Sh or Shs (pl.)",
+      "fraction": "(",
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "256",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Swahili"
+    ]
+  },
+  "UM": {
+    "exonym": "United States Minor Outlying Islands",
+    "name": "Baker Island",
+    "capital": null,
+    "iso_3166_1_a3": "UMI",
+    "tld": null,
+    "flag": "🇺🇲",
+    "currency": null,
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "United States"
+    ],
+    "languages": null
+  },
+  "US": {
+    "exonym": "United States",
+    "name": "The United States of America",
+    "capital": "Washington, D.C.",
+    "iso_3166_1_a3": "USA",
+    "tld": ".us",
+    "flag": "🇺🇸",
+    "currency": {
+      "name": "US Dollar (Same day)",
+      "iso_4217": "USS",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−10:00 to –05:00",
+      "dst": "UTC−10:00 to –04:00"
+    },
+    "calling_code": "1",
+    "endonyms": [
+      "Estados Unidos",
+      "États-Unis",
+      "‘Amelika Hui Pū ‘ia"
+    ],
+    "languages": [
+      "Cajun French",
+      "English",
+      "Hawaiian",
+      "Indigenous",
+      "Spanish"
+    ]
+  },
+  "UY": {
+    "exonym": "Uruguay",
+    "name": "The Oriental Republic of Uruguay",
+    "capital": "Montevideo",
+    "iso_3166_1_a3": "URY",
+    "tld": ".uy",
+    "flag": "🇺🇾",
+    "currency": {
+      "name": "Peso Uruguayo",
+      "iso_4217": "UYU",
+      "symbol": "$",
+      "fraction": "Centésimo",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−03:00",
+      "dst": null
+    },
+    "calling_code": "598",
+    "endonyms": null,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "UZ": {
+    "exonym": "Uzbekistan",
+    "name": "The Republic of Uzbekistan",
+    "capital": "Tashkent",
+    "iso_3166_1_a3": "UZB",
+    "tld": ".uz",
+    "flag": "🇺🇿",
+    "currency": {
+      "name": "Uzbekistan Sum",
+      "iso_4217": "UZS",
+      "symbol": "soum",
+      "fraction": "Tiyin",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+05:00",
+      "dst": null
+    },
+    "calling_code": "998",
+    "endonyms": [
+      "O‘zbekiston",
+      "Ўзбекистон"
+    ],
+    "languages": [
+      "Uzbek"
+    ]
+  },
+  "VA": {
+    "exonym": "Holy See (Vatican City State)",
+    "name": "The Holy See",
+    "capital": null,
+    "iso_3166_1_a3": "VAT",
+    "tld": ".va",
+    "flag": "🇻🇦",
+    "currency": {
+      "name": "Italian Lira",
+      "iso_4217": "ITL",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "Holy See"
+    ],
+    "languages": null
+  },
+  "VC": {
+    "exonym": "Saint Vincent and the Grenadines",
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "iso_3166_1_a3": "VCT",
+    "tld": ".vc",
+    "flag": "🇻🇨",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "iso_4217": "XCD",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (784)",
+    "endonyms": null,
+    "languages": [
+      "English"
+    ]
+  },
+  "VE": {
+    "exonym": "Venezuela, Bolivarian Republic of",
+    "name": "The Bolivarian Republic of Venezuela",
+    "capital": "Caracas",
+    "iso_3166_1_a3": "VEN",
+    "tld": ".ve",
+    "flag": "🇻🇪",
+    "currency": {
+      "name": "Bolivar",
+      "iso_4217": "VEB",
+      "symbol": "Bs.S",
+      "fraction": "Céntimo",
+      "fractions_in_unit": 1
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "58",
+    "endonyms": [
+      "Venezuela"
+    ],
+    "languages": [
+      "Spanish"
+    ]
+  },
+  "VG": {
+    "exonym": "Virgin Islands, British",
+    "name": "The Virgin Islands",
+    "capital": "Road Town",
+    "iso_3166_1_a3": "VGB",
+    "tld": ".vg",
+    "flag": "🇻🇬",
+    "currency": {
+      "name": "United States dollar",
+      "iso_4217": "USD",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC−04:00",
+      "dst": null
+    },
+    "calling_code": "1 (284)",
+    "endonyms": [
+      "British Virgin Islands"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "VI": {
+    "exonym": "Virgin Islands, U.S.",
+    "name": "The Virgin Islands of the United States",
+    "capital": "Charlotte Amalie, United States Virgin Islands",
+    "iso_3166_1_a3": "VIR",
+    "tld": ".vi",
+    "flag": "🇻🇮",
+    "currency": null,
+    "time": null,
+    "calling_code": null,
+    "endonyms": [
+      "United States Virgin Islands"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "VN": {
+    "exonym": "Viet Nam",
+    "name": "The Socialist Republic of Viet Nam",
+    "capital": "Hanoi",
+    "iso_3166_1_a3": "VNM",
+    "tld": ".vn",
+    "flag": "🇻🇳",
+    "currency": {
+      "name": "Dong",
+      "iso_4217": "VND",
+      "symbol": "₫",
+      "fraction": "Hào",
+      "fractions_in_unit": 10
+    },
+    "time": {
+      "zone": "UTC+07:00",
+      "dst": null
+    },
+    "calling_code": "84",
+    "endonyms": [
+      "Vietnam",
+      "Việt Nam"
+    ],
+    "languages": [
+      "Vietnamese"
+    ]
+  },
+  "VU": {
+    "exonym": "Vanuatu",
+    "name": "The Republic of Vanuatu",
+    "capital": "Port Vila",
+    "iso_3166_1_a3": "VUT",
+    "tld": ".vu",
+    "flag": "🇻🇺",
+    "currency": {
+      "name": "Vatu",
+      "iso_4217": "VUV",
+      "symbol": "VT",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+11:00",
+      "dst": null
+    },
+    "calling_code": "678",
+    "endonyms": null,
+    "languages": [
+      "French"
+    ]
+  },
+  "WF": {
+    "exonym": "Wallis and Futuna",
+    "name": "The Territory of the Wallis and Futuna Islands",
+    "capital": "Mata Utu",
+    "iso_3166_1_a3": "WLF",
+    "tld": ".wf",
+    "flag": "🇼🇫",
+    "currency": {
+      "name": "CFP Franc",
+      "iso_4217": "XPF",
+      "symbol": "Fr",
+      "fraction": "Centime",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+12:00",
+      "dst": null
+    },
+    "calling_code": "681",
+    "endonyms": [
+      "Wallis-et-Futuna",
+      "ʻUvea mo Futuna"
+    ],
+    "languages": [
+      "French",
+      "Futunan",
+      "Wallisian"
+    ]
+  },
+  "WS": {
+    "exonym": "Samoa",
+    "name": "The Independent State of Samoa",
+    "capital": "Apia, Samoa",
+    "iso_3166_1_a3": "WSM",
+    "tld": ".ws",
+    "flag": "🇼🇸",
+    "currency": {
+      "name": "Tala",
+      "iso_4217": "WST",
+      "symbol": "$",
+      "fraction": "Sene",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+13:00",
+      "dst": "UTC+14:00"
+    },
+    "calling_code": "685",
+    "endonyms": [
+      "Sāmoa"
+    ],
+    "languages": [
+      "English",
+      "Samoan"
+    ]
+  },
+  "YE": {
+    "exonym": "Yemen",
+    "name": "The Republic of Yemen",
+    "capital": "Sana'a",
+    "iso_3166_1_a3": "YEM",
+    "tld": ".ye",
+    "flag": "🇾🇪",
+    "currency": {
+      "name": "Yemeni Rial",
+      "iso_4217": "YER",
+      "symbol": "Rl or Rls (pl.)",
+      "fraction": "Fils",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "967",
+    "endonyms": [
+      "Al-Yaman",
+      "اليمن"
+    ],
+    "languages": [
+      "Arabic"
+    ]
+  },
+  "YT": {
+    "exonym": "Mayotte",
+    "name": "The Department of Mayotte",
+    "capital": "Mamoudzou",
+    "iso_3166_1_a3": "MYT",
+    "tld": ".yt",
+    "flag": "🇾🇹",
+    "currency": {
+      "name": "Euro",
+      "iso_4217": "EUR",
+      "symbol": null,
+      "fraction": null,
+      "fractions_in_unit": null
+    },
+    "time": {
+      "zone": "UTC+03:00",
+      "dst": null
+    },
+    "calling_code": "262 (269, 639)",
+    "endonyms": [
+      "Maore"
+    ],
+    "languages": [
+      "French",
+      "Shimaore"
+    ]
+  },
+  "ZA": {
+    "exonym": "South Africa",
+    "name": "The Republic of South Africa",
+    "capital": "Pretoria",
+    "iso_3166_1_a3": "ZAF",
+    "tld": ".za",
+    "flag": "🇿🇦",
+    "currency": {
+      "name": "Rand",
+      "iso_4217": "ZAR",
+      "symbol": "R",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "27",
+    "endonyms": [
+      "Aforika Borwa",
+      "Afrika Borwa",
+      "Afrika Dzonga",
+      "Afrika-Borwa",
+      "Afurika Tshipembe",
+      "Suid-Afrika",
+      "iNingizimu Afrika",
+      "iSewula Afrika",
+      "uMzantsi Afrika"
+    ],
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Ndebele",
+      "Pedi",
+      "Sotho",
+      "Swazi",
+      "Tsonga",
+      "Tswana",
+      "Venda",
+      "isiXhosa",
+      "isiZulu"
+    ]
+  },
+  "ZM": {
+    "exonym": "Zambia",
+    "name": "The Republic of Zambia",
+    "capital": "Lusaka",
+    "iso_3166_1_a3": "ZMB",
+    "tld": ".zm",
+    "flag": "🇿🇲",
+    "currency": {
+      "name": "Zambian Kwacha",
+      "iso_4217": "ZMW",
+      "symbol": "K",
+      "fraction": "Ngwee",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "260",
+    "endonyms": null,
+    "languages": [
+      "Bemba",
+      "Chewa",
+      "English"
+    ]
+  },
+  "ZW": {
+    "exonym": "Zimbabwe",
+    "name": "The Republic of Zimbabwe",
+    "capital": "Harare",
+    "iso_3166_1_a3": "ZWE",
+    "tld": ".zw",
+    "flag": "🇿🇼",
+    "currency": {
+      "name": "Zimbabwe Dollar",
+      "iso_4217": "ZWL",
+      "symbol": "$",
+      "fraction": "Cent",
+      "fractions_in_unit": 100
+    },
+    "time": {
+      "zone": "UTC+02:00",
+      "dst": null
+    },
+    "calling_code": "263",
+    "endonyms": null,
+    "languages": [
+      "English",
+      "Shona"
+    ]
+  }
+}
